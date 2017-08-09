@@ -10,7 +10,7 @@ node("master") {
       sh '''
       make install
       make publish
-      rsync -av output/ /srv/local/verein --delete
+      rsync -av output/ /srv/local/ubucon --delete
       '''
     }
 }

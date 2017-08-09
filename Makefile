@@ -62,6 +62,6 @@ install:
 	virtualenv/bin/pip install -r requirements.txt
 	git submodule init
 	git submodule update
-	cd plugins/pelican-page-order/ && git submodule init . && git submodule update .
+	cd plugins/pelican-page-hierarchy/ && git submodule init . && git submodule update .
 
 .PHONY: html help clean regenerate devserver stopserver publish install

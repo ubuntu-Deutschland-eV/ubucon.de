@@ -4,12 +4,19 @@ from __future__ import unicode_literals
 from datetime import date
 
 AUTHOR = 'Ubucon Team'
-SITENAME = 'Ubucon'
+SITENAME = 'Ubucon Deutschland'
 SITEURL = ''
+SOCIAL = (
+    ('facebook', 'https://www.facebook.com/Ubucon'),
+    ('Google+', 'https://plus.google.com/b/101157317074955454980/101157317074955454980/posts'),
+    ('twitter', 'https://twitter.com/Ubucon'),
+    ('YouTube', ('http://www.youtube.com/ubuconde'))
+)
 
-#MENUITEMS = (
-#                ('Archiv', ),
-#            )
+MENUITEMS = (
+#               (description, link),
+                ('Archiv', 'archiv'),
+            )
 
 DEFAULT_LANG = 'de'
 TIMEZONE = 'Europe/Berlin'
@@ -19,25 +26,33 @@ CURRENTYEAR = date.today().year
 SUMMARY_MAX_LENGTH = 50
 
 PATH = 'content'
-IGNORE_FILES = ['.#*', 'files']
+IGNORE_FILES = ['.#*', 'files', '__pycache__']
 STATIC_PATHS = ['files']
-THEME = 'theme'
+PAGE_PATHS = ['pages']
+THEME = 'themes/verein'
 
 JINJA_ENVIRONMENT = {'trim_blocks': True,
                      'lstrip_blocks': True,
                      'extensions': ['jinja2.ext.ExprStmtExtension',]}
 
-## Plugins ##
+REVERSE_CATEGORY_ORDER = True
 
-LOCALE = 'de_DE.utf-8' # for open_graph
+## Plugins ##
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = [
-#            'pelican-page-order',
+#            'autopages', # , currently wont work with pelican-page-hierarchy
+            'pelican-page-hierarchy',
             'assets',
-#            'pelican-open_graph',
             'sitemap',
           ]
+
+
+PATH_METADATA = 'pages/(?P<path>.*)\..*'
+
+## for autopages
+#CATEGORY_PAGE_PATH = 'content/category_descriptions'
+#ARTICLE_EXCLUDES = PAGE_EXCLUDES = ['category_descriptions']
 
 ASSET_SOURCE_PATHS = [
     'vendor',
@@ -56,6 +71,7 @@ FEED_RSS = 'rss.xml'
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = None
 CATEGORY_FEED_ATOM = None
+CATEGORY_FEED_RSS = '%s.rss.xml'
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 AUTHOR_FEED_ATOM = None
@@ -66,7 +82,7 @@ TAG_FEED_ATOM = None
 
 ## Pagination ##
 
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 7
 
 PAGINATION_PATTERNS = (
     (1, '{base_name}/', '{base_name}/index.html'),
@@ -86,19 +102,16 @@ ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'
 ARTICLE_LANG_URL = ARTICLE_URL + '{lang}/'
 ARTICLE_LANG_SAVE_AS = ARTICLE_LANG_URL + 'index.html'
 
-# author, categories and tags should not been generated
+CATEGORY_URL = '{slug}/'
+CATEGORY_SAVE_AS = CATEGORY_URL + 'index.html'
+
+CATEGORIES_SAVE_AS = 'archiv/index.html'
+
+# author and tags should not been generated
 AUTHORS_SAVE_AS = AUTHOR_SAVE_AS = ''
-CATEGORY_SAVE_AS = CATEGORIES_SAVE_AS = ''
 ARCHIVES_SAVE_AS = ''
 TAG_URL = TAG_SAVE_AS = ''
 TAGS_URL = TAGS_SAVE_AS = ''
-
-SOCIAL = (
-    ('facebook', 'https://www.facebook.com/Ubucon'),
-    ('Google+', 'https://plus.google.com/b/101157317074955454980/101157317074955454980/posts'),
-    ('twitter', 'https://twitter.com/Ubucon'),
-    ('YouTube', ('http://www.youtube.com/ubuconde')
-)
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
