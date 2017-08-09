@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block head %}
+    {{ super() }}
+    <meta http-equiv="refresh" content="0;url={{ SITEURL }}/{{ latest_category.url }}" />
+{% endblock %}
+
+{% block content %}
+    Bitte <a href="{{ SITEURL }}/{{ latest_category.url }}">hier</a> entlang.
+{% endblock %}

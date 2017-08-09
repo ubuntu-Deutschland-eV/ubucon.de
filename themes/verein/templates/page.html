@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% from 'translations.html' import translations_for %}
+
+{% block title %}
+    {{ page.title }} – {{ super() }}
+{% endblock %}
+
+{% block meta %}
+    {{ super() }}
+
+    {% if page.summary %}
+        <meta name="description" content="{{ page.summary|striptags|e }}" />
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <h1>{{ page.title }}</h1>
+    {{ translations_for(page) }} <br>
+
+    <section {% if page.lang != DEFAULT_LANG %} lang="{{ page.lang }}" {% endif %}>
+        {{ page.content }}
+    </section>
+
+    {% if page.modified %}
+        <p>Letztes Update: {{ page.locale_modified }}</p>
+    {% endif %}
+{% endblock %}

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+    {# CUSTOM VARIABLES #}
+    {# do *not* includes '/' at end! #}
+    {% set STATIC_PATH = SITEURL + '/' + THEME_STATIC_DIR %}
+    {% set STATIC_CSS = STATIC_PATH + '/css' %}
+    {% set STATIC_JS = STATIC_PATH + '/js' %}
+    {% set STATIC_IMG = STATIC_PATH + '/img' %}
+
+    {% set latest_category, _ = categories|sort|last %}
+
+<head>
+    {% block head %}
+        <title>
+            {% block title %}{{ SITENAME }}{% endblock title %}
+        </title>
+
+        {% block meta %}
+            <meta charset="utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+        {% endblock %}
+
+        <link rel="shortcut icon" href="{{ STATIC_IMG }}/favicon.ico" />
+
+        {# handle custom 'robot: <option>' metatag
+            see https://developers.google.com/webmasters/control-crawl-index/docs/robots_meta_tag?hl=de#gltige-indexierungs--und-bereitstellungsanweisungen for option
+        #}
+        {% macro robot(option) %}
+            <meta name="robots" content="{{ option }}" />
+        {% endmacro %}
+        {% if article and article.robot %}
+            {{ robot(article.robot) }}
+        {% elif page and page.robot %}
+            {{ robot(page.robot) }}
+        {% endif %}
+
+        {% assets filters="cssutils", output="css/style-%(version)s.min.css", "ubuntu-vanilla-theme/build/css/build.min.css" %}
+            <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
+        {% endassets %}
+
+        {% if FEED_ALL_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} – Artikel in allen Sprachen – Atom Feed" />
+        {% endif %}
+        {% if FEED_ALL_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} – Artikel in allen Sprachen – RSS Feed" />
+        {% endif %}
+        {% if FEED_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} – alle Artikel – Atom Feed" />
+        {% endif %}
+        {% if FEED_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} – alle Artikel – RSS Feed" />
+        {% endif %}
+        {% if CATEGORY_FEED_ATOM and category %}
+        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} – Artikel der Kategorie {{category.name}} – Atom Feed" />
+        {% endif %}
+        {% if CATEGORY_FEED_RSS and category %}
+        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} – Artikel der Kategorie {{category.name}} – RSS Feed" />
+        {% endif %}
+        {% if TAG_FEED_ATOM and tag %}
+        <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} – Artikel mit Tag „{{ tag.name }}“ – Atom Feed" />
+        {% endif %}
+        {% if TAG_FEED_RSS and tag %}
+        <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} – Artikel mit Tag „{{ tag.name }}“ –  RSS Feed" />
+        {% endif %}
+
+    {% endblock %}
+</head>
+
+<body>
+
+    <header class="banner global" role="banner">
+        <nav role="navigation" class="nav-primary">
+            <span id="main-navigation-link">
+                <a accesskey="s" href="#main-content">
+                    Zum Inhalt springen
+                </a>
+            </span>
+            <div class="logo">
+                <a href="/">
+                    <img height="46px" src="{{ STATIC_IMG }}/ubucon_de_logo.svg" alt="Logo UbuCon Deutschland" />
+                </a>
+            </div>
+
+            <div id="nav">
+                <div class="nav-toggle">
+                    <a href="#nav" class="nav-toggle__link open"></a>
+                    <a href="#" class="nav-toggle__link close"></a>
+                </div>
+                <ul>
+                    {% for title, link in MENUITEMS %}
+                        <li>
+                            <a href="{{ SITEURL }}/{{ link }}"
+                               {% if output_file == link + 'index.html' %} class="active"{% endif %}
+                               title="{{ title }}">
+                                {{ title }}
+                            </a>
+                        </li>
+                    {% endfor %}
+                    
+                    {% if DISPLAY_PAGES_ON_MENU %}
+                        {% for p in pages %}
+                            <li>
+                                <a href="{{ SITEURL }}/{{ p.url }}"
+                                   {% if p == page %}class="active"{% endif %}
+                                   title="{{ p.title }}">
+                                    {{ p.title }}
+                                </a>
+                            </li>
+                        {% endfor %}
+                    {% endif %}
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+
+
+    <div class="wrapper">
+        <div id="main-content" class="inner-wrapper">
+            <div class="row no-border">
+                {% block content %}{% endblock %}
+            </div>
+        </div>
+    </div>
+
+
+
+    <footer class="global clearfix">
+        <div class="legal clearfix">
+            <p class="twelve-col">
+                <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">
+                    CC BY-SA
+                </a>
+                UbuCon Team, {{ CURRENTYEAR }}
+            </p>
+
+            <ul class="inline-list clear">
+                {% for name, link in SOCIAL %}
+                 <li>
+                     <small><a href="{{ link }}">{{ name }}</a></small>
+                 </li>
+                {% endfor %}
+            </ul>
+
+            <ul class="inline-list clear">
+                <li>
+                    <a href="/rss.xml">
+                        <small>RSS-Feed</small>
+                    </a>
+                </li>
+                <li>
+                    <a href="/kontakt">
+                        <small>Kontakt</small>
+                    </a>
+                </li>
+                <li>
+                    <a href="/impressum">
+                        <small>Impressum</small>
+                    </a>
+                </li>
+                <li>
+                    <a href="/datenschutzerklaerung">
+                        <small>Datenschutzerklärung</small>
+                    </a>
+                </li>
+                <li>
+                    <a href="//verein.ubuntu-de.org">
+                        <small>ubuntu Deutschland e.V.</small>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <span class="accessibility-aid">
+            <a href="#">Zum Seitenbeginn springen</a>
+        </span>
+    </footer>
+
+</body>
+</html>
