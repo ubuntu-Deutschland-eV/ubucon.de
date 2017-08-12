@@ -11,28 +11,28 @@ Ankündigung](/2013/regelmaessiges-irc-treffen-in-ubucon-de) im IRC
 getroffen und ab 20 Uhr eine dreiviertel Stunde lang über aktuelle
 Punkte gesprochen.
 
-</p>
+
 Protokoll
 ---------
 
-</p>
+
 Folgende Punkte wurden besprochen (es werden die IRC-Namen angegeben, wo
 notwendig):
 
-</p>
+
 ### Vor-Ort Organisation
 
-</p>
+
 Es wurden einige
 [Hotels](http://wiki.ubucon.de/doku.php/ubucon:2013:vor_ort?&#hotels)
 vorab ausgewählt. Diese Woche soll sich darum gekümmert werden, bei
 diesen ein Zimmerkontingent zu bekommen, sodass man demnächst buchen
 kann.
 
-</p>
+
 ### Linux-Quiz
 
-</p>
+
 Für das Linux-Quiz auf der Ubucon sollen erstmals nicht-technische
 Fragen aufgenommen werden, sodass auch der „normale“ Ubuntu-Nutzer
 mitmachen kann. Zusätzlich soll es Buzzer geben, um das Quiz
@@ -40,16 +40,16 @@ mitmachen kann. Zusätzlich soll es Buzzer geben, um das Quiz
 gestalten. Ggf. wird, um die Teilnehmer gleich stark zu halten, ein
 Teamspiel eingeführt.
 
-</p>
+
 Nächster Termin
 ---------------
 
-</p>
+
 Das nächste Treffen findet nächsten **Montag, den 22. Juli 2013, um 20
 Uhr** im IRC statt. Die Absprache selbst soll dabei wieder über eine
 [Telefonkonferenz](http://wiki.ubucon.de/doku.php/ubucon:2013:kommunikation#telko-raum)
 erfolgen. Jeder, der Interesse an der Organisation der Ubucon hat, ist
 eingeladen teilzunehmen und sich einzubringen.
 
-</p>
+
 

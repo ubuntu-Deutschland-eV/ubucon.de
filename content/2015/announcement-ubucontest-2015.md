@@ -13,7 +13,7 @@ Apps, Scopes und Ideen für das „konvergente“ Ubuntu der Zukunft dreht.
 Teilnehmer können ihre mit dem Ubuntu SDK und der Ubuntu-Plattform
 erstellten Apps und Scopes bis zum 18. September einreichen.
 
-</p>
+
 Aber Apps und Scopes sind nicht alles! Eine Plattform benötigt auch
 Inhalte, großartiges Design, Tester, Dokumentation, Unterstützung für
 Entwickler, interessante Blog-Artikel, Nachrichten,
@@ -21,10 +21,10 @@ Technologiedemonstrationen und all die anderen Dinge, welche unsere
 Gemeinschaft jeden Tag hervorbringt. Daher geben wir der Gemeinschaft
 die Möglichkeit, Mitglieder aus ihrer Mitte für Preise zu nominieren!
 
-</p>
+
 Der Wettbewerb umfasst fünf Kategorien:
 
-</p>
+
 1.  **Best Team Entry**: Ein Team aus bis zu drei Entwicklern kann bis
     zu zwei Apps oder Scopes einreichen. Die Jury vergibt Punkte für
     Aspekte wie „Kreativität“, „Funktionalität“, „Design“, „Technischer
@@ -52,7 +52,7 @@ Der Wettbewerb umfasst fünf Kategorien:
     „Best Individual Entry“ eingereichte Beitrag mit der höchsten
     Wertung im Bereich „Convergence“ gewinnt.
 
-</p>
+
 Unsere mit den Community-Mitgliedern Laura Cowen, Carla Sella, Simos
 Xenitellis, Sujeevan Vijayakumaran und Michael Zanetti besetzte Jury
 kürt die Gewinner in allen Kategorien. Den Gewinnern winken attraktive
@@ -62,14 +62,14 @@ Erstplatzierten der „Best Entry“-Kategorien erhalten eine Bezuschussung
 zu den Reisekosten, falls sie zur Preisverleihung auf der Ubucon
 Deutschland 2015 vom 23. bis zum 25. Oktober 2015 anreisen.
 
-</p>
+
 Wir wünschen allen Teilnehmern viel Erfolg!
 
-</p>
+
 Weitere Informationen, sowie Möglichkeiten zur Registrierung und
 Nominierung, finden sich unter [ubucontest.eu](/2015/contest/overview).
 Das Organisationskomitee ist via
 [@ubucontest](http://twitter.com/ubucontest) auf Twitter oder via E-Mail
 an <contest@ubucon.de> zu erreichen.
 
-</p>
+

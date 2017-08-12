@@ -11,18 +11,18 @@ Ubucon für alles offen, es sollte nur mit Ubuntu, Linux und/oder Open
 Source zu tun haben. Ob Vortrag, Workshop oder eine Diskussion – alles
 ist gefragt.
 
-</p>
+
 Aber nicht nur Referenten, auch alle Besucher können uns über
 **<idee@ubucon.de>** mitteilen, an welchen Themen sie Interesse haben.
 Die Themen werden dann in der [Themenwunschliste zur Ubucon
 2014](/2014/themenwunschliste) gesammelt und interessierte Referenten
 können sich daran orientieren, wenn sie möchten.
 
-</p>
+
 Aktuell ist die [Programmseite](/2014/programm) noch recht leer. Die
 Ubucon steht unter dem Motto **„10 Jahre Ubuntu, 10 Jahre Community“**,
 und so kann die starke Community auch mitmachen und das Programm aktiv
 gestalten.
 
-</p>
+
 

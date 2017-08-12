@@ -12,11 +12,11 @@ um noch einen Ort zu finden bei dem wir in 2015 zu Gast sein dürfen.
 Einsendungen und Nachfragen können unter der E-Mail <team@ubucon.de>
 eingesendet werden.
 
-</p>
+
 Die Anforderungen an den Ort und an die Räumlichkeiten sind im Artikel
 [Call for Papers: Veranstaltungsort für die Ubucon
 gesucht](http://ubucon.de/2014/call-for-places-veranstaltungsort-fuer-die-ubucon-2015-gesucht)
 beschrieben.
 
-</p>
+
 

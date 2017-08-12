@@ -8,18 +8,18 @@ UbuCon Europe in Essen! Um genau zu sein findet sie vom 18. bis 20.
 November im Unperfekthaus in Essen statt. Eröffnet wird sie von der
 Canonical CEO Jane Silber.
 
-</p>
+
 In den letzten Wochen gab es noch einmal einige Aktualisierungen des
 [offiziellen
 Programms](http://ubucon.org/en/events/ubucon-europe/schedule/), so dass
 einige Talks noch hinzu kamen und einige leider abgesagt wurden.
 
-</p>
+
 Die [Registrierung](http://ubucon.org/en/events/ubucon-europe/register/)
 ist weiter offen und mittlerweile stehen auch die Informationen zum
 Social-Event und den Eintrittskosten fest.
 
-</p>
+
 -   **Social-Event Freitag:** Das Social-Event findet am Freitag abend
     ab 19 Uhr im Unperfekthaus Restaurant statt. Die Kosten betragen
     6,90€ für die Getränkeflat (Pflicht! Beinhaltet Heiß- und
@@ -40,20 +40,20 @@ Social-Event und den Eintrittskosten fest.
     Unperfekthaus Tagestickets ohne Büffet zu kaufen. Hier tragen die
     Kosten 11,90€ und benötigen keine vorherige Registrierung.
 
-</p>
+
 Es ist weiterhin möglich sich zu Registrieren und auch ein normales
 Konferenz-Ticket lässt sich spontan vor Ort kaufen.
 
-</p>
+
 **[Zur
 Registrierung](http://ubucon.org/en/events/ubucon-europe/register/)**
 
-</p>
+
 **[Mehr Informationen zur UbuCon
 Europe](http://ubucon.org/en/events/ubucon-europe/)**
 
-</p>
+
 Seid dabei!
 
-</p>
+
 

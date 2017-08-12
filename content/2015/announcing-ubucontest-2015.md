@@ -15,7 +15,7 @@ future. Contestants from all over the world will have until September
 18, 2015 to build and publish their apps and scopes using the Ubuntu SDK
 and Ubuntu platform, starting today.
 
-</p>
+
 We know it's not all about shiny new apps and scopes! A great platform
 also needs content, great design, testing, documentation, bug
 management, developer support, interesting blog posts, news, technology
@@ -23,10 +23,10 @@ demonstrations and all of the other incredible things our community does
 every day. So we give you, our community members, the opportunity to
 nominate other community members for prizes!
 
-</p>
+
 We are proud to present five dedicated categories:
 
-</p>
+
 1.  **Best Team Entry**: A team of up to three developers may register
     up to two apps/scopes they are developing. The jury will assign
     points in categories including "Creativity", "Functionality",
@@ -55,7 +55,7 @@ We are proud to present five dedicated categories:
     wins. The winner in this category will probably surprise us in ways
     we have yet to imagine.
 
-</p>
+
 Our community jury panel members Laura Cowen, Carla Sella, Simos
 Xenitellis, Sujeevan Vijayakumaran and Michael Zanetti will select the
 winners in each category. Successful winners will be awarded items from
@@ -64,13 +64,13 @@ winners to attend Ubucon Germany 2015 in Berlin, four Ubuntu Phones
 sponsored by bq and Meizu, t-shirts, and bundles of items from the
 official Ubuntu Shop.
 
-</p>
+
 We wish all the contestants good luck!
 
-</p>
+
 Go to [ubucontest.eu](/2015/contest/overview) for more information,
 including how to register and nominate folks. You can also follow us on
 Twitter [@ubucontest](https://twitter.com/ubucontest), or contact us via
 e-mail at <contest@ubucon.de>.
 
-</p>
+

@@ -9,22 +9,22 @@ gesehen, dass diese Woche weitere Programmpunkte dort eingetragen
 wurden. Eingereicht wurden bisher Workshops zu Blender, Django, GIMP und
 Inkscape.
 
-</p>
+
 Es ist erfreulich, dass es bereits so viele Workshops gibt, denn oft
 lebt eine Konferenz wie die Ubucon davon, dass die Teilnehmer nicht nur
 passiv den Vorträgen zuhören, sondern aktiv mitmachen können.
 
-</p>
+
 Wir hoffen also, dass sich noch mehr Referenten finden, die Workshops,
 aber natürlich auch Vorträge einreichen. Wer noch nicht recht weiß,
 worüber er referieren soll, findet eine kleine Auswahl an Themen auf
 unserer [Themenwunschliste](/2013/themenwunschliste), die von den
 Ubucon-Besuchern befüllt wird.
 
-</p>
+
 Wer Interesse hat, einen Vortrag oder Workshop einzureichen oder eine
 Diskussionsrunde leiten will, meldet sich einfach unter
 **<idee@ubucon.de>**.
 
-</p>
+
 

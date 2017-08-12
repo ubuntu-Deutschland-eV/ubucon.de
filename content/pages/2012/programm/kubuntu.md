@@ -89,7 +89,7 @@ welcher auch Bilder direkt nach Facebook, Flicker und Co senden kann.
 <td>
 ### Über den Referenten
 
-<p>
+
 Martin Gräßlin ist seit einer frühen KDE 3 Version glücklicher KDE
 Nutzer und hat mehrere Jahre lang Kubuntu eingesetzt. Seit 2008 ist er
 nicht mehr nur Nutzer, sondern auch Entwickler und betreut den
@@ -102,7 +102,7 @@ Gräßlin](/sites/ubucon.de/files/martin-graesslin.jpg){width="150"}
 
 </td>
 </td>
-</p>
+
 </td>
 </tr>
 </table>

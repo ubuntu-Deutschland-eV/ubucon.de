@@ -8,7 +8,7 @@ Auf dem
 letztes Wochenende trafen sich auch ein paar der Ubucon-Organisatoren,
 um aktuelle Themen rund um die Ubucon 2013 in Heidelberg zu besprechen.
 
-</p>
+
 Herausgekommen ist unter anderem, dass man sich regelmäßig im
 [IRC](https://de.wikipedia.org/wiki/Internet_Relay_Chat) treffen will,
 um über den aktuellen Stand der Organisation zu sprechen. Da der
@@ -16,15 +16,15 @@ Chatraum offen ist, darf jeder, der Interesse hat, an den Sitzungen
 teilnehmen. Auf die Art und Weise wollen wir etwas mehr Transparenz in
 die Planung bringen.
 
-</p>
+
 Der Treffenpunkt ist wie auf der
 [Kontaktseite](http://ubucon.de/2013/kontakt) angegeben im Chatraum
 **\#ubucon-de** auf irc.freenode.net. Wir wollen uns jeden Sonntag um 20
 Uhr dort treffen, d.h. das nächste (und erste) Mal am 28. April 2013.
 
-</p>
+
 **Update**: Das Treffen findet jetzt immer jeden **Montag um 20 Uhr**
 statt.
 
-</p>
+
 

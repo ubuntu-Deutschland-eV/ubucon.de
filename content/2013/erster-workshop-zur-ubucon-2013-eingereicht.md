@@ -9,14 +9,14 @@ heute Beiträge für die Ubucon 2013 in Heidelberg eingereicht werden.
 Daher ist es schön, dass wir den ersten Workshop zum Thema „GIMP: Farben
 durch Graustufen hervorheben“ ankündigen können.
 
-</p>
+
 Auf der [Programmseite](/2013/programm) werden alle eingereichten
 Beiträge kurz vorgestellt, bevor der offizielle Zeitplan Anfang Oktober
 bekannt gegeben wird. Auf die Art können alle Besucher – aber auch
 Referenten – sehen, zu welchen Themen es Vorträge und Workshops geben
 wird.
 
-</p>
+
 Gleichzeitig soll hier auch noch einmal auf die
 [Themenwunschliste](/2013/themenwunschliste) hingewiesen werden. Die
 Liste füllt sich langsam und beinhaltet inzwischen verschiedene Themen
@@ -25,5 +25,5 @@ jeder Besucher eingeladen, seine Wünsche an **<idee@ubucon.de>** zu
 senden, sodass mögliche Referenten ein Bild davon erhalten, was
 gewünscht wird.
 
-</p>
+
 

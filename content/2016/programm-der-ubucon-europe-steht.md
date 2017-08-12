@@ -17,7 +17,7 @@ Personen. Es werden Vorträge auf Deutsch und auf Englisch angeboten.
 Somit können auch diejenigen, die nicht sehr gut Englisch können, etwas
 von der Veranstaltung mitnehmen.
 
-</p>
+
 Eröffnet wird die UbuCon von niemand geringerem als Jane Silber, die
 seit 2010 CEO von Canonical ist. Dieses Mal sind deutlich mehr Themen
 auf Ubuntu bezogen, als es sonst der Fall war. So kann man lernen, was
@@ -32,15 +32,15 @@ auch noch einige deutsche: etwa über Systemadministration mit Ansible,
 Büros mit Raspberry Pis und Ubuntu MATE oder auch wie man SMS unter
 Linux verschickt.
 
-</p>
+
 Am Samstag Abend findet dann das zweite Social-Event statt, wofür – wie
 auch für den Freitag – noch keine Details bekannt sind.
 
-</p>
+
 Anmeldung offen
 ---------------
 
-</p>
+
 Damit wir besser planen können, wird eine vorherige Registrierung
 empfohlen. Dieses Mal steht noch kein Eintrittspreis fest; dieser dürfte
 maximal bei 30€ liegen. Das UbuCon-Team sucht noch nach [möglichen
@@ -53,18 +53,18 @@ werden kann, wie viele Leute erscheinen werden. Die
 [Anmeldeseite](http://ubucon.org/en/events/ubucon-europe/register/)
 besitzt weiterführende Informationen und den Link zur Registrierung.
 
-</p>
+
 ### Links
 
-</p>
+
 -   mehr Informationen auf [UbuCon.eu](http://ubucon.eu)
 -   [Schedule](http://ubucon.org/en/events/ubucon-europe/schedule/)
 -   [Speaker](http://ubucon.org/en/events/ubucon-europe/speaker/)
 -   [Talks](http://ubucon.org/en/events/ubucon-europe/talks)
 -   [Anreise](http://ubucon.org/en/events/ubucon-europe/travel-and-accommodation/)
 -   [Registrierung](http://ubucon.org/en/events/ubucon-europe/register/)
-    </p>
-    <p>
+    
+    
 
-</p>
+
 

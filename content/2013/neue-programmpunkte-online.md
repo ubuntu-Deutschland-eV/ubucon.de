@@ -11,22 +11,22 @@ Systemen und Ubuntu Touch. Auch das ubuntuusers.de-Team, von denen ein
 kleiner Teil auch in der Ubucon-Organisation vertreten ist, kann man
 treffen.
 
-</p>
+
 Nach wie vor freuen wir uns über weitere Referenten, die Workshops, aber
 natürlich auch Vorträge einreichen. Wer noch nicht recht weiß, worüber
 er referieren soll, findet eine kleine Auswahl an Themen auf unserer
 [Themenwunschliste](/2013/themenwunschliste), die von den
 Ubucon-Besuchern befüllt wird.
 
-</p>
+
 Wer Interesse hat, einen Vortrag oder Workshop einzureichen oder eine
 Diskussionsrunde leiten will, meldet sich einfach unter
 **<idee@ubucon.de>**.
 
-</p>
+
 Wenn Ihr uns schreibt, macht aber in der E-Mail bitte klar kenntlich, ob
 es sich um einen Themenwunsch oder um eine Themeneinreichung handelt. Es
 gab in der Vergangenheit da immer wieder Unklarheiten.
 
-</p>
+
 

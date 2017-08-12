@@ -9,7 +9,7 @@ Betriebssystem nutzen wollte, sondern auch einen menschlichen Umgang
 miteinander pflegen will. Die Ubucon steht in diesem Jahr unter dem
 Motto "10 Jahre Ubuntu, 10 Jahre Community".
 
-</p>
+
 Zur Ubucon haben wir nun den Call for Papers ausgerufen. Menschen die
 einen Vortrag, einen Workshop, eine Diskussionsrunde oder ähnliche
 Veranstaltungen halten und leiten möchten, könnten diese nun einreichen.
@@ -17,9 +17,9 @@ Doch auch Themenwünsche können eingereicht werden. Wer etwas zu einem
 bestimmten Themengebiet wissen möchte, kann hierzu einen Wunsch
 einreichen.
 
-</p>
+
 Näheres dazu auf der [Seite zum Call for
 Papers](http://ubucon.de/2014/cfp).
 
-</p>
+
 

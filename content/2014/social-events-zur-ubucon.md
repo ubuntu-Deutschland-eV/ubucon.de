@@ -7,10 +7,10 @@ Neben den Vorträgen ist vor allem die Pflege der sozialen Kontakte auf
 den Social Events ein wichtiger Bestandteil jeder Ubucon. Für Katlenburg
 sind zahlreiche Aktivitäten geplant.
 
-</p>
+
 #### Freitag, 17.10.2014
 
-</p>
+
 Für Freitag ist ein **Ritteressen** auf der [Burg
 Katlenburg](http://www.katlenburg.de/) geplant, was pro Person 37,50
 Euro kostet ([Menü als
@@ -19,14 +19,14 @@ Gelage dauert drei bis vier Stunden und wird von einem Rahmenprogramm
 begleitet. Ob das Essen stattfindet, hängt davon ab, ob die
 **Mindestteilnehmerzahl von 20 Personen** erreicht wird.
 
-</p>
+
 #### Samstag, 18.10.2014
 
-</p>
+
 Am Samstag Abend soll es mehrere Möglichkeiten geben, sich in Katlenburg
 und Umgebung unterhalten zu lassen:
 
-</p>
+
 -   **Kegelbahn** : Im [Hotel Rosenhof](http://www.rosenhof-hotel.de/)
     in Lindau (siehe auch [Besucher-Hotels](/2014/hotels)) gibt es zwei
     Kegelbahnen. In den Räumlichkeiten des Hotels können sich ab 19 Uhr
@@ -41,11 +41,11 @@ und Umgebung unterhalten zu lassen:
     wo die Vorträge und Workshops stattfinden, ausklingen lassen. Für
     Essen und Trinken zum Selbstkostenpreis ist gesorgt.
 
-</p>
+
 Bei der [Anmeldung](/2014/anmeldung) muss jeder mit angeben, wo er
 teilnehmen möchte, sodass wir besser planen können. Vor allem für das
 Ritteressen muss eine Mindestanzahl erreicht werden. Daher ist es auch
 wichtig, dass sich alle Ubucon-Teilnehmer frühzeitig anmelden.
 
-</p>
+
 

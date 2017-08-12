@@ -10,16 +10,16 @@ einreichen. Bislang sind insgesamt 12 Programmpunkte enthalten, die
 genaueren Informationen zu den Programmpunkten lassen sich im
 [vorläufigen Programm](/2015/programm) ansehen.
 
-</p>
+
 Um auch dieses Jahr ein breitgefächertes Angebot an Vorträgen und
 Workshops zu haben, folgt hier nochmal der Aufruf seinen eigenen
 Programmpunkt einzureichen. Als Inspiration kann euch auch die kleine
 aber feine [Themenwunschliste](/2015/themenwunschliste) dienen.
 
-</p>
+
 Für die Besucher ist auch weiterhin die [Anmeldung](/2015/anmeldung)
 eröffnet. Diese kostet in diesem Jahr 15€, darin enthalten sind Getränke
 und belegte Brötchen.
 
-</p>
+
 

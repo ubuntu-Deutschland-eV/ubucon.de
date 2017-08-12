@@ -8,13 +8,13 @@ Pforten öffnet. Damit sich auch viele Besucher [vorab
 anmelden](/2015/anmeldung), wurde das [Programm](/2015/programm) jetzt
 veröffentlicht.
 
-</p>
+
 In diesem Jahr werden die Vorträge und Workshops an zwei Tagen, nämlich
 an den Samstag und Sonntag stattfinden. Der Freitag wird diesmal dafür
 verwendet, dass die Räumlichkeiten vorbereitet werden und dann abends
 bei zwei Social Events man sich näher kennengelernt.
 
-</p>
+
 Thematisch gibt es auch in diesen Jahr sehr unterschiedliche Beiträge.
 Zwei Schwerpunkte haben sich herauskristallisiert. Einerseits gibt es
 wieder mehr Themen zu Ubuntu und andererseits einige Beiträge zu
@@ -23,13 +23,13 @@ welches von Canonical Mitarbeitern vorgestellt wird. Bei dem Thema
 ownCloud wird u.a. der Community Manager von ownCloud auf einem Banana
 Pi ein ownCloud installieren.
 
-</p>
+
 Die Anmeldung ist noch bis zum 19. Oktober 2015 möglich und kostet 15
 oder 10 Euro. Danach gibt es noch die Möglichkeit einer Vorort-Anmeldung
 für 20 Euro.
 
-</p>
+
 **[zum Programm](/2015/programm)**
 
-</p>
+
 

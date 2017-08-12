@@ -8,14 +8,14 @@ der Burgbergschule Katlenburg, bzw. zwischen Veranstaltungsort und den
 Social Events am Freitag und Samstag steht ein Shuttle-Service zur
 Verfügung.
 
-</p>
+
 Dieser kann über die Rufnummer
 
-</p>
+
 **0151 - 65790940**
 
-</p>
+
 erreicht werden und ist auch am Bahnhof Katlenburg ausgeschrieben.
 
-</p>
+
 

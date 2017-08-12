@@ -12,10 +12,10 @@ scopes for the converging Ubuntu world of the future. 22 contest entry
 submissions qualified for the contest, and we received seven nominations
 for the „Outstanding contribution“ categories.
 
-</p>
+
 So without any further ado: Here are the winners!
 
-</p>
+
 **Best Team Entry**: First place goes to Team ReMoTe for
 „[Falldown](https://uappexplorer.com/app/falldown.rpadovani)“, which
 already was the most popular game in the store last month. Second place
@@ -23,7 +23,7 @@ goes to Team UbunTouch-fr for their
 „[OpenFoodFacts](https://uappexplorer.com/app/openfoodfacts.ubuntouch-fr)“
 app, which we featured in our first UbuContest Story.
 
-</p>
+
 **Best Individual Entry**: First place goes to Simon Stürz for „[Monster
 Wars](https://uappexplorer.com/app/monsterwars.t-mon)", another game
 that immediately became popular among our users. The incredibly
@@ -34,23 +34,23 @@ the popular
 „[WifiTransfer](https://uappexplorer.com/app/wifitransfer.sil)“ utility
 written by Stuart Langridge.
 
-</p>
+
 **The Outstanding Non-Technical Contribution** category is awarded to
 Kevin Feyder for his many design contributions to various projects.
 
-</p>
+
 **The Outstanding Technical Contribution category** is awarded to Niklas
 Wenzel for his continuous work on the core apps and especially for
 working on IMAP notifications.
 
-</p>
+
 **Convergence Hero**: The jury decided to not award a prize in this
 category. While many of the contest entries already work more than one
 form-factor, e.g. phone and desktop, out of the box, no entry made
 creative use of the possibilities.
 
-</p>
+
 We congratulate all the winners and hope to meet you all at Ubucon
 Germany 2015 in Berlin.
 
-</p>
+

@@ -14,5 +14,5 @@ oder die
 im Kalender importieren. Bei künftigen Veränderungen am Programm werden
 beide Dateien aktualisiert.
 
-</p>
+
 

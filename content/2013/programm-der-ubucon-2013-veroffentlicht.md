@@ -8,16 +8,16 @@ In den letzten Monaten konnte man schön sehen, wie auf der
 gekommen sind. Vier Wochen vor dem Start der Ubucon wurde das Programm
 fertig gestellt.
 
-</p>
+
 Zwei Tage volles Programm
 -------------------------
 
-</p>
+
 Insgesamt sind ca. 50 Stunden an Programmpunkten zusammen gekommen.
 Diese verteilen sich auf 5 parallelen Slots am Freitag, Samstag und
 Sonntag.
 
-</p>
+
 Am Freitag gibt es neben dem Aufbau und der offiziellen Eröffnung der
 Ubucon nur wenige Vorträge, da viele Besucher erst am Samstag anreisen.
 Dennoch möchten wir vor allem mit dem Vortrag [„Hands on Ubuntu Touch
@@ -28,7 +28,7 @@ und Firefox OS testen. Abends findet das Social Event nach der
 Stadtführung im [„Restaurant Schnookeloch“](http://schnookeloch.de/)
 statt.
 
-</p>
+
 Am Samstag fangen ab 9 Uhr die Anmeldung und ab 10 Uhr die Vorträge an.
 Es freut uns, dass wir so viele Workshops bieten können, die einen
 ganzen Slot füllen können. Neben den
@@ -40,7 +40,7 @@ sodass man auch als Nicht-Linux-Crack am Quiz teilnehmen kann. Abends
 kehrt man nach der Stadtführung zum Social Event im [„Café
 Villa“](http://cafevilla.de) ein.
 
-</p>
+
 Am Sonntag Morgen ist das Programm etwas dünner, falls jemand
 ausschlafen will. Als besonderer Vortrag kann sicherlich
 [„Kommunikationspsychologie für Nerds“](/2013/programm#kommunikation)
@@ -49,11 +49,11 @@ eigentlich jeder), sollte wissen, wie man richtig kommuniziert und kann
 dies in dem Vortrag vielleicht erfahren. Gegen 16 Uhr ist die Ubucon
 2013 dann zu Ende.
 
-</p>
+
 Anmeldung noch möglich
 ----------------------
 
-</p>
+
 Wer ist bis zur Veröffentlichung des Programms warten wollte, hat jetzt
 die Möglichkeit sich zur [Ubucon anmelden](/2013/anmeldung). Noch bis
 zum **3. Oktober 2013** ist die Anmeldung für einen Unkostenbeitrag von
@@ -61,15 +61,15 @@ zum **3. Oktober 2013** ist die Anmeldung für einen Unkostenbeitrag von
 vor Ort anzumelden. Der Unkostenbeitrag steigt dann auf 15 Euro, weil
 wir nicht so gut planen können.
 
-</p>
+
 Vor allem für die Stadtführungen und die Social Events wäre es gut, dass
 sich jeder vorher anmeldet. Wir können sonst nicht garantieren, dass es
 in den Restaurants genügend Plätze für alle Ubucon-Teilnehmer gibt.
 
-</p>
+
 Wir freuen uns auf Euch und sehen uns gut vier Wochen.  
 
 Das Ubucon-Organisationsteam
 
-</p>
+
 

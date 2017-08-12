@@ -10,7 +10,7 @@ Call for Contributions läuft nur noch wenige Tage bis zum 31. Juli. Wer
 einen Vortrag einreichen will, der findet nähere Informationen auf der
 [Call for Contributions](/2016/ubucon-europe-cfc) Seite.
 
-</p>
+
 Einige Talks und Workshops wurden im Laufe der Zeit schon angenommen.
 Eine Übersicht findet sich auf der [UbuCon Europe
 Talks](http://ubucon.org/en/events/ubucon-europe/talks/) Seite. Mit
@@ -20,7 +20,7 @@ Ubuntu-Community Mitglieder Talks eingereicht, oder ihr kommen
 angekündigt. Mehr Informationen dazu in Kürze, wenn das vollständige
 Programm feststeht.
 
-</p>
+
 Um die Kosten der Veranstaltung decken zu können suchen wir ebenfalls
 noch Sponsoren. Wenn Ihr eine Firma seid oder jemanden kennt, der unsere
 Veranstaltung gerne finanziell unterstützen möchte, der kann sich die
@@ -31,5 +31,5 @@ unterhaltsame als auch lehrreiche Veranstaltung zu organisieren, dessen
 Eintritt für jede Person erschwinglich und bezahlbar ist, wofür wir die
 Unterstützung von Sponsoren dringend benötigen.
 
-</p>
+
 
