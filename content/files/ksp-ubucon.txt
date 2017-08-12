@@ -1,0 +1,113 @@
+Sunday, October 13, 2013;  11:00
+                                                   Jens Erat <email@jenserat.de>
+
+
+     K E Y S I G N I N G   U B U C O N   2 0 1 3   @ P R E C I S E 
+
+                     List of Participants  (v 1.0)
+
+
+Here's what you have to do with this file:
+(1) Print this file to paper.
+(2) Compute this file's MD5 checksum and optionally also its SHA1 checksum.
+   gpg --print-md md5  ksp-file.txt  (or use md5sum)
+   gpg --print-md sha1 ksp-file.txt  (or use sha1sum)
+(3) Fill in the hash values on the printout.
+(4) Bring the printout, a pen, and proof of identity to the key signing party
+    (and be on time!).
+
+MD5 Checksum:  __ __ __ __ __ __ __ __    __ __ __ __ __ __ __ __      [ ]
+
+
+
+SHA1 Checksum: ____ ____ ____ ____ ____    ____ ____ ____ ____ ____    [ ]
+
+
+
+
+
+001  [ ] Fingerprint OK        [ ] ID OK
+pub   8192R/A4FF2279 2012-12-25
+      Key fingerprint = 0D69 E11F 12BD BA07 7B37  26AB 4E1F 799A A4FF 2279
+uid                  Jens Erat (born 1988-01-19 in Stuttgart, Germany)
+uid                  Jens Erat <jens.erat@fsfe.org>
+uid                  Jens Erat <jens.erat@uni-konstanz.de>
+uid                  Jens Erat <jabber@jenserat.de>
+uid                  Jens Erat <email@jenserat.de>
+
+
+002  [ ] Fingerprint OK        [ ] ID OK
+pub   2048R/D745722B 2010-12-12
+      Key fingerprint = 350E D9B6 9ADC 2DED F5F2  8549 CBC2 613C D745 722B
+uid                  Jens Erat <email@jenserat.de>
+uid                  Jens Erat <jens.erat@uni-konstanz.de>
+uid                  Jens Erat <jabber@jenserat.de>
+
+
+003  [ ] Fingerprint OK        [ ] ID OK
+pub   8192R/B09B1B5F 2013-09-22 [expires: 2023-09-25]
+      Key fingerprint = 1D46 65DB 6468 940B 0591  3905 364C 7D2C B09B 1B5F
+uid                  Stefan Fischer <fischer.stefan@yahoo.de>
+
+
+004  [ ] Fingerprint OK        [ ] ID OK
+pub   1024D/6B6FCC65 2007-02-20 [expires: 2018-07-18]
+      Key fingerprint = 9CDC 0F25 76F9 A0FC E46A  8198 659B BFBD 6B6F CC65
+uid                  Stefan Fischer <fischer.stefan@yahoo.de>
+
+
+005  [ ] Fingerprint OK        [ ] ID OK
+pub   2048R/D8B7143C 2013-09-01
+      Key fingerprint = 6D26 6A43 6D0C 35B2 6BD2  F24A CBF5 CE29 D8B7 143C
+uid                  Dominic Radermacher <dominic.radermacher@gmail.com>
+uid                  Dominic Radermacher <blip@osiris.localnet>
+uid                  Dominic Radermacher <dominic.radermacher@gmx.de>
+
+
+006  [ ] Fingerprint OK        [ ] ID OK
+pub   4096R/CE960E96 2013-10-07 [expires: 2018-10-06]
+      Key fingerprint = B07F B423 CC9D 2325 25F0  444B 05E0 E719 CE96 0E96
+uid                  Dennis Keck <privat@denniskeck.de>
+
+
+007  [ ] Fingerprint OK        [ ] ID OK
+pub   2048R/E4ACD8BA 2012-02-14 [expires: 2015-12-29]
+      Key fingerprint = 61DF 4812 8447 4B95 689B  9DB0 EE73 4042 E4AC D8BA
+uid                  Lars Kumbier (New primary Mailaddress) <lars@kumbier.it>
+uid                  Lars Kumbier <lars.kumbier@dl.srh.de>
+uid                  Lars Kumbier <lars.kumbier@fh-heidelberg.de>
+uid                  Lars Kumbier <larsscheithauer@googlemail.com>
+
+
+008  [ ] Fingerprint OK        [ ] ID OK
+pub   2048D/1D5B1F6A 2011-03-03
+      Key fingerprint = 8004 C62F DFD2 C80A 9EC4  3CEE 81A1 5C04 1D5B 1F6A
+uid                  Werner Eimers <werner.eimers@web.de>
+
+
+009  [ ] Fingerprint OK        [ ] ID OK
+pub   2048D/9780C292 2011-03-03
+      Key fingerprint = 8CAC A8D7 C6F4 A055 486C  0093 37FE 8CE6 9780 C292
+uid                  Werner Eimers (eimers it-consulting) <werner.eimers@eimers-dv.de>
+
+
+010  [ ] Fingerprint OK        [ ] ID OK
+pub   1024R/57F77F09 1995-01-30
+      Key fingerprint = 11 28 37 E2 CB 46 72 67  9E 8E 22 18 DA F9 C0 96
+uid                  Sven Guckes <pgp@guckes.net>
+uid                  Sven Guckes
+
+
+011  [ ] Fingerprint OK        [ ] ID OK
+pub   4096R/D41C7E39 2013-04-24 [expires: 2014-04-24]
+      Key fingerprint = 5786 D19B C800 5CE5 7452  0A63 AFE7 9D68 D41C 7E39
+uid                  Markus Holtermann <info@markusholtermann.eu>
+uid                  Markus Holtermann <info@markusholtermann.de>
+uid                  Markus Holtermann <markush@freitagsrunde.org>
+uid                  Markus Holtermann <inyoka@markusholtermann.eu>
+uid                  Markus Holtermann <markus@markusholtermann.de>
+uid                  Markus Holtermann <markus@markusholtermann.eu>
+uid                  Markus Holtermann <ubuntu@markusholtermann.eu>
+uid                  Markus Holtermann <studium@markusholtermann.de>
+uid                  Markus Holtermann <studium@markusholtermann.eu>
+
