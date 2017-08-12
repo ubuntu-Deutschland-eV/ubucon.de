@@ -1,3 +1,4 @@
+Status: hidden
 Title: Impressum
 
 ## ubuntu Deutschland e. V.
