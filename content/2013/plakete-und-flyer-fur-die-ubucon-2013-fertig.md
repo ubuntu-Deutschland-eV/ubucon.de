@@ -9,72 +9,10 @@ Ubucon 2013 in Heidelberg aufmerksam zu machen. Zusätzlich zu den beiden
 „Standardformaten“ wurden auch erstmals Visitenkarten gedruckt, die man
 sehr leicht in die Tasche stecken und aufheben kann.
 
-
 Die PDF- und Scribus-Dateien kann man über das Launchpad-Konto der
 deutschen Ubuntu-Community herunterladen. Wie dies geht, ist auf der
 [Material-Seite](/2013/Material) beschrieben.
 
-
-<table cellpadding="3">
-
-
-<tr>
-
-
-<td>
-
-[![Ubucon 2013
-Poster](http://ubucon.de/sites/ubucon.de/files/ubucon2013_poster.jpg){height="200"}](http://ubucon.de/sites/ubucon.de/files/ubucon2013_poster.jpg)
-
-
-</td>
-
-
-<td>
-
-[![Ubucon 2013
-Flyer](http://ubucon.de/sites/ubucon.de/files/ubucon2013_flyer.jpg){height="200"}](http://ubucon.de/sites/ubucon.de/files/ubucon2013_flyer.jpg)
-
-
-</td>
-
-
-<td>
-
-[![Ubucon 2013
-Visitenkarten](http://ubucon.de/sites/ubucon.de/files/ubucon2013_visitenkarten.jpg){height="200"}](http://ubucon.de/sites/ubucon.de/files/ubucon2013_visitenkarten.jpg)
-
-
-</td>
-
-
-</tr>
-
-
-<tr>
-
-
-<td style="font-style: italic; text-align:center;">
-Poster, …
-
-</td>
-
-
-<td style="font-style: italic; text-align:center;">
-… Flyer und …
-
-</td>
-
-
-<td style="font-style: italic; text-align:center;">
-… Visitenkarten.
-
-</td>
-
-
-</tr>
-
-
-</table>
-
-
+|Poster, …|… Flyer und …| … Visitenkarten. |
+|---------|-------------|------------------|
+|[![Ubucon 2013 Poster]({filename}/files/ubucon2013_poster.jpg){height="200"}]({filename}/files/ubucon2013_poster.jpg) | [![Ubucon 2013 Flyer]({filename}/files/ubucon2013_flyer.jpg){height="200"}]({filename}/files/ubucon2013_flyer.jpg) | [![Ubucon 2013 Visitenkarten]({filename}/files/ubucon2013_visitenkarten.jpg){height="200"}]({filename}/files/ubucon2013_visitenkarten.jpg)|
