@@ -95,7 +95,7 @@ PAGINATION_PATTERNS = (
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = PAGE_URL + 'index.html'
 
-INDEX_SAVE_AS = 'index.html'
+INDEX_URL = INDEX_SAVE_AS = ''
 
 ARTICLE_URL = '{category}/{slug}/'
 ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'
