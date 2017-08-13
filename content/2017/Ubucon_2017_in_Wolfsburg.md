@@ -79,12 +79,8 @@ werden:
  * Vorkenntnisse der Besucher.
  * Gruppe, die angesprochen werden sollen (Einsteiger, Fortgeschrittene, Experten)
 
-<!--
 ## Nächste Schritte
 
-In den kommenden Tagen wird die [https://www.ubucon.de Webseite der
-Veranstaltung] überarbeitet und immer wieder mit Neuigkeiten zur
-Veranstaltung bestückt. Im September wird dann die Voranmeldung zur
+Im September wird dann die Voranmeldung zur
 Veranstaltung eröffnet. Fragen rund um die Veranstaltung können unter
 team@ubucon.de gestellt werden.
--->

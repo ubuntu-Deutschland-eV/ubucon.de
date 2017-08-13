@@ -23,7 +23,7 @@ For further informations see
 
 Clone the git-Repository via
 
-    $ git clone git@github.com:ubuntu-Deutschland-eV/verein.ubuntu-de.org.git
+    $ git clone git@github.com:ubuntu-Deutschland-eV/ubucon.de.git
 
 Furthermore, install `python-virtualenv`. If you use Ubuntu via
 
