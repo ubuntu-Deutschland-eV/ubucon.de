@@ -1,5 +1,4 @@
 Title: Call for Papers
-Status: Hidden
 
 ### Wunschthemen suchen …
 

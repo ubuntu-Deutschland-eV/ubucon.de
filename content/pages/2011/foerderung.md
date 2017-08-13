@@ -1,5 +1,4 @@
 Title: Ubucon für alle – Unabhängig vom Einkommen
-Status: hidden
 
 Die letzten Jahre gab es vom [ubuntu Deutschland
 e.V.](http://verein.ubuntu-de.org/) für die Ubucon das Angebot, dass

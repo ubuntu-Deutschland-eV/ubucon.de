@@ -1,5 +1,4 @@
 Title: Was ist die Ubucon?
-Status: hidden
 
 Ubuntu ist mehr als ein gewöhnliches Betriebssystem. Ubuntu steht für
 „Menschlichkeit gegenüber Anderen“. Dies möchte auch die

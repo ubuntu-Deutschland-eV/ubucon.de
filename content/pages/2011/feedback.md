@@ -1,5 +1,4 @@
 Title: Feedback
-Status: hidden
 
 Das Feedback-Zeitfenster ist nun geschlossen und die Ergebnisse liegen
 vor.

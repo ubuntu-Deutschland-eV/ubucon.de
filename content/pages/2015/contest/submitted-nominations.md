@@ -1,5 +1,4 @@
 Title: Submitted nominations
-Status: hidden
 Lang: en
 
 Kevin Feyder

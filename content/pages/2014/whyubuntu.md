@@ -1,5 +1,4 @@
 Title: Warum Ubuntu?
-Status: Hidden
 
 Viele Leute fragen sich ja warum sie Ubuntu oder generell Linux nutzen
 sollten? Bei Windows funktioniert ja alles so wie ich es brauch und es

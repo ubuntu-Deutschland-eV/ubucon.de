@@ -1,5 +1,4 @@
 Title: Anmeldung
-Status: Hidden
 
 Für die Ubucon konnte man sich mit den folgenden Formular anmelden. In
 diesem Jahr trägt die Verpflegungspauschale 15 Euro. Wer nicht so gut

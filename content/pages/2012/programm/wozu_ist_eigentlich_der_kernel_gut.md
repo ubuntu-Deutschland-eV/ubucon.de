@@ -1,5 +1,4 @@
 Title: Wozu ist eigentlich der Kernel gut? Ein Wegweiser zum Aufbau des Systems.
-Status: Hidden
 
 <table border="0" cellpadding="3" cellspacing="0" width="100%">
 <tr>

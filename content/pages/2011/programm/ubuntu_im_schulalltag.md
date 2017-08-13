@@ -1,5 +1,4 @@
 Title: Ubuntu im Schulalltag – Einsichten in ein freies Gymnasium
-Status: Hidden
 
 <table border="0" cellpadding="3" cellspacing="0" width="100%">
 <tr>

@@ -1,5 +1,4 @@
 Title: Unterkunft
-Status: Hidden
 
 Inhaltsverzeichnis
 ------------------

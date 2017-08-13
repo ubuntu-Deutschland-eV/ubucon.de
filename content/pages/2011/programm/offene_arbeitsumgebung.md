@@ -1,5 +1,4 @@
 Title: Offene Arbeitsumgebung – Der agile Desktop für IT-Prof
-Status: Hidden
 
 <table border="0" cellpadding="3" cellspacing="0" width="100%">
 <tr>

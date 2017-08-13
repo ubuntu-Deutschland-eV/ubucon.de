@@ -1,5 +1,4 @@
 Title: Hotels 2014
-Status: Hidden
 
 Hier findet ihr die Liste der Hotels in unmittelbarer Region der Ubucon.
 

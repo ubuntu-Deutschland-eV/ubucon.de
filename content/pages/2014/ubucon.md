@@ -1,5 +1,4 @@
 Title: Was ist die Ubucon?
-Status: Hidden
 
 [Ubuntu](http://www.ubuntu.com/) ist mehr als ein gewöhnliches
 Betriebssystem. Ubuntu steht für „Menschlichkeit gegenüber Anderen“.

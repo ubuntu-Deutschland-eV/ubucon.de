@@ -1,5 +1,4 @@
 Title: Programm
-Status: Hidden
 
 Alle Veranstaltungen (außer es ist anders gekennzeichnet) finden in den
 Räumen der HWTK in der Friedrichsstrasse 189 in Berlin statt.

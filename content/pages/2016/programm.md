@@ -1,6 +1,5 @@
 Title: Programm
 Lang: en
-Status: Hidden
 
 Friday 18 November: get together
 ================================

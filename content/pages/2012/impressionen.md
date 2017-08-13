@@ -1,5 +1,4 @@
 Title: Impressionen
-Status: Hidden
 
 Hier sind ein paar Eindrücke von der Ubucon 2012 zu sehen. Die Fotos
 wurden von Horst Böhme aufgenommen.

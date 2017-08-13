@@ -1,5 +1,4 @@
 Title: Register Team
-Status: hidden
 Lang: en
 
 Use this form to register **your team** for the **Best team entry**

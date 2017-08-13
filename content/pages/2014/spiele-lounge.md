@@ -1,5 +1,4 @@
 Title: Spiele-Lounge
-Status: Hidden
 
 [![]({filename}/files/hibx_papoyo.jpg){width="350"}]({filename}/files/hibx_papoyo.jpg)
 Szene aus dem Spiel Papo & Yo

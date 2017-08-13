@@ -1,5 +1,4 @@
 Title: Overview
-Status: hidden
 Lang: en
 
 The story

@@ -1,5 +1,4 @@
 Title: Wie man die Welt verändert (und bei sich selbst anfängt)
-Status: Hidden
 
 <table border="0" cellpadding="3" cellspacing="0" width="100%">
 <tr>

@@ -1,5 +1,4 @@
 Title: Agile Systemadministration und DevOPS - Getting Things done with Scrum and Kanban
-Status: Hidden
 
 <table border="0" cellpadding="3" cellspacing="0" width="100%">
 <tr>

@@ -1,5 +1,4 @@
 Title: Register Individual
-Status: hidden
 Lang: en
 
 Use this form to register **yourself** for the **Best individual entry**

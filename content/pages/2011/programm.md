@@ -1,5 +1,4 @@
 Title: Programmübersicht
-Status: Hidden
 
 
 ## Freitag, 14.10.2011

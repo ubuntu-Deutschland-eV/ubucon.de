@@ -1,5 +1,4 @@
 Title: Ubuntu for Cat®
-Status: Hidden
 
 Diesmal gibt es ein Projekt, welches im Vorfeld der Ubucon gestartet
 wird und bis zur Ubucon ein Ergebnis haben soll. Und dieses Projekt hat

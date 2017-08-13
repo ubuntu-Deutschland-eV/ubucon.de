@@ -1,5 +1,4 @@
 Title: Programm
-Status: Hidden
 
 Folien-Download {#folien}
 ---------------

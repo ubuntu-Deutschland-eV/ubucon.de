@@ -1,5 +1,4 @@
 Title: LPI-Prüfungen
-Status: Hidden
 
 [![Linux Professional
 Institute]({filename}/files/LPI_logo_1_kl.jpg){width="200"}](http://www.lpice.eu/de/home.html)

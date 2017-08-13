@@ -1,5 +1,4 @@
 Title: Material
-Status: Hidden
 
 Die Materialien zur Ubucon 2013 umfassen:
 

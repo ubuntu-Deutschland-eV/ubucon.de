@@ -1,5 +1,4 @@
 Title: Nominate Individual
-Status: hidden
 Lang: en
 
 Use this form to register **someone else** for the **Outstanding

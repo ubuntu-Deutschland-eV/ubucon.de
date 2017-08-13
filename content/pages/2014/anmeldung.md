@@ -1,5 +1,4 @@
 Title: Anmeldung
-Status: Hidden
 
 Für eine bessere Planung zwecks Raumgröße, Social Event
 etc. bitten wir darum, dass sich jeder Teilnehmer (auch Referenten,

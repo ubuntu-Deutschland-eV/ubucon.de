@@ -1,5 +1,4 @@
 Title: Kontinuierliche Integration am Beispiel mit Jenkins
-Status: Hidden
 
 <table border="0" cellpadding="3" cellspacing="0" width="100%">
 <tr>

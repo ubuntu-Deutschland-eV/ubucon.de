@@ -1,5 +1,4 @@
 Title: Themenwunschliste
-Status: Hidden
 
 Die Ubucon 2015 steht unter dem Motto **„Community in Touch“**.
 

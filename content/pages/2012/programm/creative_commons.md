@@ -1,5 +1,4 @@
 Title: Creative Commons - Was ist das und kann man das essen?
-Status: Hidden
 
 <table border="0" cellpadding="3" cellspacing="0" width="100%">
 <tr>

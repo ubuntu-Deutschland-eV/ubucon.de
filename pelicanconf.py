@@ -17,6 +17,7 @@ MENUITEMS = (
 #               (description, link),
                 ('Archiv', 'archiv'),
             )
+DISPLAY_PAGES_ON_MENU = False
 
 DEFAULT_LANG = 'de'
 TIMEZONE = 'Europe/Berlin'

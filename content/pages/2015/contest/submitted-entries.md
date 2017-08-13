@@ -1,5 +1,4 @@
 Title: Submitted entries
-Status: hidden
 Lang: en
 
 DurationCounter

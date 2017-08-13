@@ -1,5 +1,4 @@
 Title: Dynamische Systemoptimierung – Einführung in ulatencyd
-Status: Hidden
 
 <table border="0" cellpadding="3" cellspacing="0" width="100%">
 <tr>

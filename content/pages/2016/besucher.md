@@ -1,5 +1,4 @@
 Title: Besucherinformationen
-Status: Hidden
 
 ## Termin und Ort
 

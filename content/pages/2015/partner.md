@@ -1,5 +1,4 @@
 Title: Partner
-Status: Hidden
 
 Folgende Partner und Sponsoren unterstützen die Ubucon 2015.
 

@@ -1,5 +1,4 @@
 Title: Themenwunschliste zur Ubucon 2014
-Status: Hidden
 
 Die Ubucon 2014 steht unter dem Motto **„10 Jahre Ubuntu, 10 Jahre
 Community“**, da die erste Ubuntu-Version am 20. Oktober 2004 erschien.

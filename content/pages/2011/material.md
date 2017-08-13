@@ -1,5 +1,4 @@
 Title: Vorträge und Material
-Status: hidden
 
 ### Vorträge
 
