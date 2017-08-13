@@ -284,5 +284,5 @@ Pause mit eingerechnet.
 
 **Das Programm zur Ubucon 2011 gibt es auch zum Download:**
 
- * [PDF-Dokument](/files/Ubucon-2011-Programm_5.pdf)
- * [OpenDocument für OpenOffice.org/LibreOffice und Co.](/files/Ubucon-2011-Programm_2.ods)
+ * [PDF-Dokument]({filename}/files/Ubucon-2011-Programm_5.pdf)
+ * [OpenDocument für OpenOffice.org/LibreOffice und Co.]({filename}/files/Ubucon-2011-Programm_2.ods)

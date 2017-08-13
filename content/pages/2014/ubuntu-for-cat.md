@@ -7,7 +7,7 @@ mit Ubuntu Touch zu tun…
 
 ## Die Aufgabe
 
-![](/sites/ubucon.de/files/cat%20logo.png){width="300"}
+![]({filename}/files/cat%20logo.png){width="300"}
 
 Auf einem [Cat® Phoenix Tablet PC 4](http://cat-sound.com/tablet-produkte/8-zoll-tablets/cat-phoenix)
 soll ein Ubuntu Touch installiert werden und dieses auf der Ubucon
@@ -32,6 +32,6 @@ Ubucon-Organisatoren.
 
 Cat® Phoenix Tablet PC 4:
 
-![](http://ubucon.de/sites/ubucon.de/files/new-highlight-02.png){width="400"}
+![]({filename}/files/new-highlight-02.png){width="400"}
 
 (c) Cat® Service

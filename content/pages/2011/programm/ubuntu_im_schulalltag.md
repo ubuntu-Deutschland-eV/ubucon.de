@@ -98,7 +98,7 @@ allem auf dem Einsatz freier Software in der Schule.
     Team](http://fsfe.org/projects/education/eduteam.en.html)
 -   [Webseite von Sebastian Seitz](http://www.s-seitz.de/)
 -   [Download der
-    Präsentation](http://www.ubucon.de/sites/www.ubucon.local/files/Ubuntu_im_Schulalltag.pdf)
+    Präsentation]({filename}/files/Ubuntu_im_Schulalltag.pdf)
     (pdf)
 
 

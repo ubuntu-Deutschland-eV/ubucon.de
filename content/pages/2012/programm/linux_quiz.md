@@ -70,6 +70,7 @@ etwas Linux-Wissen ;)
 </td>
 </tr>
 </table>
+
 ### Inhalt
 
 Wann wurde der erste Linux-Kernel erstellt oder welchen Codenamen trug
@@ -83,24 +84,8 @@ Exemplar heraussuchen.
 
 ### Mit freundlicher Unterstützung von:
 
-  ---------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------
-  [![](http://ubucon.de/sites/ubucon.de/files/galileo-press-anim.gif)](http://galileo-press.de/)\      [![](http://ubucon.de/sites/ubucon.de/files/osp-logo.jpg){width="80%"}](https://www.opensourcepress.de/)
-  [![](http://ubucon.de/sites/ubucon.de/files/logo_it-fachportal.jpg)](http://www.it-fachportal.de/)   
-  ---------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------
+[![]({filename}/files/galileo-press-anim.gif)](http://galileo-press.de/)
 
-### Über den Moderator
+[![]({filename}/files/osp-logo.jpg){width="80%"}](https://www.opensourcepress.de/)
 
-Text fehlt noch.
-
-### Links
-
--   
-
-### Über den Moderator
-
-Text fehlt noch.
-
-### Links
-
--   
-
+[![]({filename}/files/logo_it-fachportal.jpg)](http://www.it-fachportal.de/)   

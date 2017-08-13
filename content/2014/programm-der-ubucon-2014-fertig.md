@@ -33,7 +33,7 @@ Vorort-Anmeldung für 15 Euro.
 
 
 [Download als
-PDF](http://ubucon.de/sites/ubucon.de/files/ubucon2014_programm_0.pdf)
+PDF]({filename}/files/ubucon2014_programm_0.pdf)
 (Stand: 09.09.14, 20:45 Uhr)
 
 

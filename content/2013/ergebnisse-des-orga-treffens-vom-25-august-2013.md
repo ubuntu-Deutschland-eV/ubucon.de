@@ -56,7 +56,7 @@ Für die Ubucon haben wir extra neue Namensschilder erstellt. Die Muster
 sehen so aus:
 
 
-[![](http://ubucon.de/sites/ubucon.de/files/ubucon_2013_namensschilder.png){width="300"}](http://ubucon.de/sites/ubucon.de/files/ubucon_2013_namensschilder.png)
+[![]({filename}/files/ubucon_2013_namensschilder.png){width="300"}]({filename}/files/ubucon_2013_namensschilder.png)
 
 
 Ebenfalls suchen wir derzeit eine Druckmöglichkeit für die
@@ -73,6 +73,3 @@ Das nächste Treffen findet nächsten **Sonntag, den 1. September 2013, um
 [Telefonkonferenz](http://wiki.ubucon.de/doku.php/ubucon:2013:kommunikation#telko-raum)
 erfolgen. Jeder, der Interesse an der Organisation der Ubucon hat, ist
 eingeladen teilzunehmen und sich einzubringen.
-
-
-

@@ -11,7 +11,7 @@ Team entwickelt die “OpenFoodFacts” App, welche einen komfortablen
 Zugriff auf [OpenFoodFacts](http://de.openfoodfacts.org/)
 eine freie Datenbank mit Informationen über Lebensmittel ermöglicht.
 
-![](http://ubucon.de/sites/ubucon.de/files/openfoodfacts_1.png){height="400"}
+![]({filename}/files/openfoodfacts_1.png){height="400"}
 
 Die Datenbank enthält nicht nur Informationen über Inhaltsstoffe,
 sondern auch viele weitere Details wie Nährwerte, Verpackung, eine

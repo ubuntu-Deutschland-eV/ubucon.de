@@ -69,7 +69,7 @@ Laptop mit GIMP (Version 2.6.11)
 </td>
 </tr>
 </table>
-![Avatar](http://www.ubucon.de/sites/www.ubucon.local/files/avatar.png){width="139"}
+![Avatar]({filename}/files/avatar.png){width="139"}
 
 ### Inhalt
 
@@ -81,8 +81,7 @@ Avatar-Wallpaper mit nach Hause nehmen.
 Zum Mitmachen benötigt man einen Laptop mit funktionsfähiger, aktueller
 GIMP-Version (2.6.11).
 
-![Sirko
-Kemter](http://www.ubucon.de/sites/www.ubucon.local/files/sirko.png){width="139"}
+![Sirko Kemter]({filename}/files/sirko.png){width="139"}
 
 ### Über den Referenten
 

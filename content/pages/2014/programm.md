@@ -27,8 +27,7 @@ Katlenburg statt. Am Samstag und Sonntag ist der Einlass ab 9 Uhr!
 
 Letztes Datum der Aktualisierung: **18.10.2014, 12:10 Uhr**
 
-Das Programm gibt es auch zum Download [als
-PDF](http://ubucon.de/sites/ubucon.de/files/ubucon2014_programm_1.pdf).
+Das Programm gibt es auch zum Download [als PDF]({filename}/files/ubucon2014_programm_1.pdf).
 
 ## Freitag, 17.10.2014 {#freitag}
 
@@ -357,8 +356,7 @@ Wir konstruieren eine einfache Figur, legen geeignete Materialien und
 Texturen an, hauchen ihr mit einer Skelett-Animation Leben ein und
 setzen sie in einem kurzen Film-Clip in Szene.
 
-[![Matthias
-Baran](http://ubucon.de/sites/ubucon.de/files/matthias_baran.png){width="133"}](http://ubucon.de/sites/ubucon.de/files/matthias_baran.png)
+[![Matthias Baran]({filename}/files/matthias_baran.png){width="133"}]({filename}/files/matthias_baran.png)
 
 Matthias Baran arbeitet als freiberuflicher Designer seit vielen Jahren
 mit freier Software, für die meisten Projekte mittlerweile
@@ -396,7 +394,7 @@ dieser Größenordnung koordiniert wird und welche Ziele und Pläne die
 Community für die Zukunft hat.
 
 [![Florian
-Effenberger](http://ubucon.de/sites/ubucon.de/files/floeff2012.jpg){width="150"}](http://ubucon.de/sites/ubucon.de/files/floeff2012.jpg)
+Effenberger]({filename}/files/floeff2012.jpg){width="150"}]({filename}/files/floeff2012.jpg)
 
 Florian Effenberger engagiert sich seit über zehn Jahren für freie
 Software. Er ist einer der Gründer der The Document Foundation, der
@@ -462,7 +460,7 @@ dabei aber trotzdem erkennbar sein, um eine perfekte Illusion geht es
 nicht.
 
 [![Christian
-Perle](http://ubucon.de/sites/ubucon.de/files/cp07.png){width="120"}](http://ubucon.de/sites/ubucon.de/files/cp07.png)
+Perle]({filename}/files/cp07.png){width="120"}]({filename}/files/cp07.png)
 
 Weniger technisch orientierte Zuhörer soll der Vortrag dafür
 sensibilisieren, dass nicht jedem offenen WLAN vertraut werden sollte.
@@ -499,7 +497,7 @@ Tricks die beim Arbeiten mit Git nützlich sind.
  * Dauer: 2-3h
  * Zielgruppe: Einsteiger
 
-[Vortragsunterlagen als PDF](/sites/ubucon.de/files/Git-Workshop.pdf)
+[Vortragsunterlagen als PDF]({filename}/files/Git-Workshop.pdf)
 
 Workflow für Grafikdesign mit freier Software {#grafikdesign}
 ---------------------------------------------
@@ -510,7 +508,7 @@ sind empfehlenswert? Welche Details sind unbedingt zu bedenken? Welche
 Datenformate sind verlässlich?
 
 [![Matthias
-Baran](http://ubucon.de/sites/ubucon.de/files/matthias_baran.png){width="133"}](http://ubucon.de/sites/ubucon.de/files/matthias_baran.png)
+Baran]({filename}/files/matthias_baran.png){width="133"}]({filename}/files/matthias_baran.png)
 
 Der Workshop bietet mit einem kleinen Beispielprojekt einen Einstieg.
 Aus einer schlichten Hand-Skizze gestalten wir die Reinzeichnung eines
@@ -556,7 +554,7 @@ und baut die gefundene Lösung dann in den Vortrag ein.
  * Zielgruppe: Einsteiger
 
 [Vortrag und Demo als
-HTML](/sites/ubucon.de/files/ubucon-grafik-kungfoo.tar.gz)
+HTML]({filename}/files/ubucon-grafik-kungfoo.tar.gz)
 
 LPI-Prüfungen {#lpi}
 -------------
@@ -580,7 +578,7 @@ grundlegenden Aufbau und Anwendung erläutern.
  * Dauer: 1h
  * Zielgruppe: Einsteiger/Fortgeschrittene
 
-[Vortragsunterlagen als PDF](/sites/ubucon.de/files/encbladexp-lvm.pdf)
+[Vortragsunterlagen als PDF]({filename}/files/encbladexp-lvm.pdf)
 
 Zwei-Faktor-Authentisierung bei LUKS {#zwei-faktor-luks}
 ------------------------------------
@@ -608,7 +606,7 @@ OTP-Token oder [OTP-Karten](http://www.smartdisplayer.com/) und
 Smartphones verwalten und zur Authentisierung heranziehen.
 
 [![Cornelius
-Kölbel](http://ubucon.de/sites/ubucon.de/files/cornelius-koelbel.jpg){width="100"}](http://ubucon.de/sites/ubucon.de/files/cornelius-koelbel.jpg)
+Kölbel]({filename}/files/cornelius-koelbel.jpg){width="100"}]({filename}/files/cornelius-koelbel.jpg)
 
 Der Vortrag soll aufzeigen, dass sichere Authentisierung nicht viel
 kostet und keine große Hürde darstellt. Er lädt ein, Identitäten in
@@ -625,13 +623,13 @@ Zweifaktor-Authentisierung.
  * Zielgruppe: Fortgeschrittene
 
 [Vortragsunterlagen als
-ZIP](/sites/ubucon.de/files/Zwei-Faktor-Authentisierung.zip)
+ZIP]({filename}/files/Zwei-Faktor-Authentisierung.zip)
 
 Sichere E-Mails mit Mutt und GPG (Vortrag) {#mutt_gpg_vortrag}
 ------------------------------------------
 
 [![Sven
-Guckes](http://ubucon.de/sites/ubucon.de/files/sven_guckes.png){width="150"}](http://ubucon.de/sites/ubucon.de/files/sven_guckes.png)
+Guckes]({filename}/files/sven_guckes.png){width="150"}]({filename}/files/sven_guckes.png)
 
 Der Vortrag zeigt, wie man den Konsolen-E-Mail-Client
 [Mutt](http://www.mutt.org/) bedient und hierin mittels
@@ -668,7 +666,7 @@ OpenStack für Anwender – Eine praktische Einführung {#openstack_anwender}
 ---------------------------------------------------
 
 [![Carsten
-Duch](http://ubucon.de/sites/ubucon.de/files/carsten_duch.jpg){width="150"}](http://ubucon.de/sites/ubucon.de/files/carsten_duch.jpg)
+Duch]({filename}/files/carsten_duch.jpg){width="150"}]({filename}/files/carsten_duch.jpg)
 
 Der Workshop gibt eine kurze theoretische Einführung in das Thema
 OpenStack und vermittelt den Teilnehmern im praktischen Teil die
@@ -693,7 +691,7 @@ Die eigene Cloud mit ownCloud {#owncloud}
 -----------------------------
 
 [![Olaf
-Bialas](http://ubucon.de/sites/ubucon.de/files/olaf-bialas.jpg){width="120"}](http://ubucon.de/sites/ubucon.de/files/olaf-bialas.jpg)
+Bialas]({filename}/files/olaf-bialas.jpg){width="120"}]({filename}/files/olaf-bialas.jpg)
 
 Folgende Fragen werden im Workshop behandelt:
 
@@ -747,7 +745,7 @@ erarbeitete Wissen mit minimalen Aufwand auf andere Plattformen
 ([Cubietruck](http://www.cubietruck.com/), ...) überträgt.
 
 [![Stefan
-Seyfried](http://ubucon.de/sites/ubucon.de/files/stefan_seyfried.jpg){width="150"}](http://ubucon.de/sites/ubucon.de/files/stefan_seyfried.jpg)
+Seyfried]({filename}/files/stefan_seyfried.jpg){width="150"}]({filename}/files/stefan_seyfried.jpg)
 
 Stefan Seyfried beschäftigt sich seit über 10 Jahren hauptberuflich mit
 Linux in allen Varianten. Zunächst war er als Systemadministrator bei
@@ -766,7 +764,7 @@ er sich in seiner Freizeit um Embedded-Linux-Systeme aller Art.
  * Zielgruppe: Fortgeschrittene
 
 [Vortragsunterlagen als
-PDF](/sites/ubucon.de/files/ubucon2014-stefan_seyfried-raspberrypi.pdf)
+PDF]({filename}/files/ubucon2014-stefan_seyfried-raspberrypi.pdf)
 
 Samba für Einsteiger {#samba-einsteiger}
 --------------------
@@ -835,7 +833,7 @@ F/OSS components being used. Then we proceed to an hands-on session to
 create SPDX text documents and pick on code examples from real-world.
 
 [![Nuno
-Brito](http://ubucon.de/sites/ubucon.de/files/nuno_brito.jpeg){width="150"}](http://ubucon.de/sites/ubucon.de/files/nuno_brito.jpeg)
+Brito]({filename}/files/nuno_brito.jpeg){width="150"}]({filename}/files/nuno_brito.jpeg)
 
 The session is split into two parts: the presentation is mostly for
 beginners and the practice lesson is more for advanced users.
@@ -869,13 +867,13 @@ Inhalt dieses Vortrags.
  * Zielgruppe: Einsteiger/Fortgeschrittene
 
 [Vortragsunterlagen als
-PDF](/sites/ubucon.de/files/encbladexp-systemd.pdf)
+PDF]({filename}/files/encbladexp-systemd.pdf)
 
 Verschlüsselung und Signatur von E-Mails {#verschluesselung}
 ----------------------------------------
 
 [![Olaf
-Bialas](http://ubucon.de/sites/ubucon.de/files/olaf-bialas.jpg){width="120"}](http://ubucon.de/sites/ubucon.de/files/olaf-bialas.jpg)
+Bialas]({filename}/files/olaf-bialas.jpg){width="120"}]({filename}/files/olaf-bialas.jpg)
 
 Folgende Fragen werden im Vortrag behandelt:
 

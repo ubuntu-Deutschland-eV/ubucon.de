@@ -64,7 +64,7 @@ kann sich aber natürlich vor Ort noch angemeldet werden.
 Für Freitag ist ein Ritteressen auf der [Burg
 Katlenburg](http://www.katlenburg.de/) geplant, was pro Person 37,50
 Euro kostet ([Menü als
-PDF](http://ubucon.de/sites/ubucon.de/files/Bankettmappe_2014.pdf)). Das
+PDF]({filename}/files/Bankettmappe_2014.pdf)). Das
 Gelage dauert drei bis vier Stunden und wird von einem Rahmenprogramm
 begleitet. Ob das Essen stattfindet, hängt davon ab, ob die
 **Mindestteilnehmerzahl von 20 Personen** erreicht wird. Dies muss bei
@@ -98,28 +98,28 @@ und Umgebung unterhalten zu lassen:
 
 Ein paar Fotos zum Veranstaltungsort haben wir hier hinterlegt:
 
-[![](http://ubucon.de/sites/ubucon.de/files/aula01.JPG){width="200"}](http://ubucon.de/sites/ubucon.de/files/aula01.JPG)
-[![](http://ubucon.de/sites/ubucon.de/files/aula02.JPG){width="200"}](http://ubucon.de/sites/ubucon.de/files/aula02.JPG)
-[![](http://ubucon.de/sites/ubucon.de/files/aula03.JPG){width="200"}](http://ubucon.de/sites/ubucon.de/files/aula03.JPG)
+[![]({filename}/files/aula01.JPG){width="200"}]({filename}/files/aula01.JPG)
+[![]({filename}/files/aula02.JPG){width="200"}]({filename}/files/aula02.JPG)
+[![]({filename}/files/aula03.JPG){width="200"}]({filename}/files/aula03.JPG)
 Aula
 
-[![](http://ubucon.de/sites/ubucon.de/files/burgbergschule.jpg){width="200"}](http://ubucon.de/sites/ubucon.de/files/burgbergschule.jpg)
+[![]({filename}/files/burgbergschule.jpg){width="200"}]({filename}/files/burgbergschule.jpg)
 Burgbergschule
 
-[![](http://ubucon.de/sites/ubucon.de/files/eingang-mit-aula.jpg){width="200"}](http://ubucon.de/sites/ubucon.de/files/eingang-mit-aula.jpg)
+[![]({filename}/files/eingang-mit-aula.jpg){width="200"}]({filename}/files/eingang-mit-aula.jpg)
 Eingang mit Aula
 
-[![](http://ubucon.de/sites/ubucon.de/files/gruppenraum.jpg){width="200"}](http://ubucon.de/sites/ubucon.de/files/gruppenraum.jpg)
+[![]({filename}/files/gruppenraum.jpg){width="200"}]({filename}/files/gruppenraum.jpg)
 Gruppenraum
 
-[![](http://ubucon.de/sites/ubucon.de/files/klassenraum01.jpg){width="200"}](http://ubucon.de/sites/ubucon.de/files/klassenraum01.jpg)
-[![](http://ubucon.de/sites/ubucon.de/files/klassenraum02.jpg){width="200"}](http://ubucon.de/sites/ubucon.de/files/klassenraum02.jpg)
+[![]({filename}/files/klassenraum01.jpg){width="200"}]({filename}/files/klassenraum01.jpg)
+[![]({filename}/files/klassenraum02.jpg){width="200"}]({filename}/files/klassenraum02.jpg)
 Klassenraum
 
-[![](http://ubucon.de/sites/ubucon.de/files/küche01.jpg){width="200"}](http://ubucon.de/sites/ubucon.de/files/küche01.jpg)
-[![](http://ubucon.de/sites/ubucon.de/files/küche02.jpg){width="200"}](http://ubucon.de/sites/ubucon.de/files/küche02.jpg)
+[![]({filename}/files/küche01.jpg){width="200"}]({filename}/files/küche01.jpg)
+[![]({filename}/files/küche02.jpg){width="200"}]({filename}/files/küche02.jpg)
 Küche
 
-[![](http://ubucon.de/sites/ubucon.de/files/musikraum01.JPG){width="200"}](http://ubucon.de/sites/ubucon.de/files/musikraum01.JPG)
-[![](http://ubucon.de/sites/ubucon.de/files/musikraum02.JPG){width="200"}](http://ubucon.de/sites/ubucon.de/files/musikraum02.JPG)
+[![]({filename}/files/musikraum01.JPG){width="200"}]({filename}/files/musikraum01.JPG)
+[![]({filename}/files/musikraum02.JPG){width="200"}]({filename}/files/musikraum02.JPG)
 Musikraum

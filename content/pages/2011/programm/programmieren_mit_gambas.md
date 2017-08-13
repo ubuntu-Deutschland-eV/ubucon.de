@@ -82,8 +82,7 @@ GAMBAS-Programme vorgestellt und zum Teil mit den Teilnehmern in der IDE
 entwickelt, welche die wichtigsten Komponenten und Klassen der Sprache
 GAMBAS nutzen.
 
-![Hans
-Lehmann](http://www.ubucon.de/sites/www.ubucon.local/files/hans_lehmann.png){width="139px"
+![Hans Lehmann]({filename}/files/hans_lehmann.png){width="139px"
 height="185px"}
 
 ### Über den Referenten

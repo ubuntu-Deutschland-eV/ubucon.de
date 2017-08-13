@@ -83,7 +83,7 @@ angenehmere Nutzererfahrung zu ermöglichen.
 
 -   [ulatencyd Homepage](https://github.com/poelzi/ulatencyd)
 -   [Download der
-    Präsentation](http://www.ubucon.de/sites/www.ubucon.local/files/ulatencyd.pdf)
+    Präsentation]({filename}/files/ulatencyd.pdf)
     (pdf)
 
 

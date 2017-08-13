@@ -5,7 +5,7 @@ Slug: anmeldeliste-zur-keysigning-party
 
 Wer sich zur [Keysigning-Party](/2013/programm-keysigning) angemeldet
 hat, sollte die Teilnehmerliste
-[ksp-ubucon.txt](http://ubucon.de/sites/ubucon.de/files/ksp-ubucon.txt)
+[ksp-ubucon.txt]({filename}/files/ksp-ubucon.txt)
 unbedingt ausgedruckt mitbringen.
 
 Wenn die Datei korrekt übertragen wurde, sollten die Checksummen

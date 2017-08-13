@@ -31,8 +31,8 @@ Räumen des SRH Berufsförderwerks Heidelberg an der Bonhoefferstraße 6 in
 Heidelberg statt. Am Samstag und Sonntag ist der Einlass ab 9 Uhr!
 
 Das Programm gibt es auch zum Download **[als
-PDF](/sites/ubucon.de/files/ubucon2013_programm_1.pdf)**, **[als
-OpenDocument](/sites/ubucon.de/files/ubucon2013_programm_1.ods)**,
+PDF]({filename}/files/ubucon2013_programm_1.pdf)**, **[als
+OpenDocument]({filename}/files/ubucon2013_programm_1.ods)**,
 **[als
 iCAL](https://www.google.com/calendar/ical/qa0mcrgkk44s6b9u7g9imd66kc%40group.calendar.google.com/public/basic.ics)**
 und als
@@ -421,7 +421,7 @@ zum Teil abenteuerliche Triggermechanismen ein. Bereits 2009 gab es
 einen ähnlichen Vortrag auf der damaligen Ubucon in Göttingen. Dieser
 Vortrag ist sozusagen das Update.
 
-[Vortragsunterlagen als PDF](/sites/ubucon.de/files/backdoors2ubu.pdf)
+[Vortragsunterlagen als PDF]({filename}/files/backdoors2ubu.pdf)
 
  * Referent: Christian Perle (ggf. zusammen mit Mike Gareiss)
  * Typ: Vortrag
@@ -454,7 +454,7 @@ Finanzdienstleister „cardtech Card & POS Service GmbH“ vorgestellt.
 Blender-Workshop: Blender On The Rocks {#blender-workshop}
 --------------------------------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/blenderontherocks.jpg){width="150"}](http://ubucon.de/sites/ubucon.de/files/blenderontherocks.jpg)
+[![]({filename}/files/blenderontherocks.jpg){width="150"}]({filename}/files/blenderontherocks.jpg)
 
 [Blender](http://www.blender.org/) ist die Open-Source-Anwendung, wenn
 es um 3D-Grafiken geht. Der Umfang, den diese Software an
@@ -573,7 +573,7 @@ Themen sind XSLT und XSLT-FO.
 GIMP-Workshop: Farben durch Graustufen hervorheben {#gimp-workshop}
 --------------------------------------------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/gimp-girl.jpg){width="150"}](http://ubucon.de/sites/ubucon.de/files/gimp-girl.jpg)
+[![]({filename}/files/gimp-girl.jpg){width="150"}]({filename}/files/gimp-girl.jpg)
 
 Mit [GIMP](http://www.gimp.org/) sind sehr viele schöne Spielereien
 möglich, einige davon lassen sich sogar sinnvoll einsetzen. In dem
@@ -585,7 +585,7 @@ Der Workshop richtet sich vor allem an GIMP-Einsteiger, die noch nicht
 alle Handgriffe und Tastenkürzel bis ins kleinste Detail beherrschen.
 
 [Notizen als
-OpenDocument](/sites/ubucon.de/files/GIMP-Workshop_Ubucon2013.odt)
+OpenDocument]({filename}/files/GIMP-Workshop_Ubucon2013.odt)
 
  * Referent: Dominik Wagenführ
  * Typ: Workshop
@@ -634,7 +634,7 @@ installiertem [node.js v0.10](http://nodejs.org/).
 Inkscape-Workshop
 -----------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/inkscape-marker.jpg){width="150"}](http://ubucon.de/sites/ubucon.de/files/inkscape-marker.jpg)
+[![]({filename}/files/inkscape-marker.jpg){width="150"}]({filename}/files/inkscape-marker.jpg)
 
 [Inkscape](http://inkscape.org/?lang=de) ist ein freier
 Vektorgrafikeditor. Dass man mit ihm mehr als ein paar schnöde Kreise
@@ -651,7 +651,7 @@ Papier zu zeichen, eine Handschrift und den passenden Marker-Stift dazu.
 Was ist KDE und wie kann man da mitmachen? {#kde}
 ------------------------------------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/kde-logo.png){width="64"}](http://ubucon.de/sites/ubucon.de/files/kde-logo.png)
+[![]({filename}/files/kde-logo.png){width="64"}]({filename}/files/kde-logo.png)
 
 Viele verbinden mit „KDE“ eigentlich nur den Desktop – das DE steht ja
 schließlich für „Desktop Environment“. Aber seit einigen Jahren ist dies
@@ -669,7 +669,7 @@ mitarbeiten kann – auch ohne ein Programmierer zu sein.
 In 100 Minuten zum eigenen Treiber {#kernelmodul}
 ----------------------------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/beaglebone.jpg){width="100"}](http://ubucon.de/sites/ubucon.de/files/beaglebone.jpg)
+[![]({filename}/files/beaglebone.jpg){width="100"}]({filename}/files/beaglebone.jpg)
 
 In zwei Stunden wird in dem praktischen Vortrag der Weg zu einem ersten
 eigenen, einfachen Treiber zurückgelegt. Angefangen bei den Grundlagen
@@ -730,7 +730,7 @@ Das Augenmerk des Workshops liegt dabei beim absoluten Anfänger, der
 entweder dazu gezwungen sieht, damit zu arbeiten oder sie auch
 freiwillig in Zukunft nutzen möchte.
 
-[Vortragsfolien als PDF](/sites/ubucon.de/files/VortragBashHandout.pdf)
+[Vortragsfolien als PDF]({filename}/files/VortragBashHandout.pdf)
 
  * Referent: Stefan Kleyer
  * Typ: Workshop
@@ -757,7 +757,7 @@ Der Vortrag richtet sich an alle, die sich im Alltag schon mal ein
 ausdrücklich willkommen.
 
 [Vortragsfolien als
-OpenDocument-Presentation](http://ubucon.de/sites/ubucon.de/files/Kommunikationspsychologie_fuer_Nerds.odp)
+OpenDocument-Presentation]({filename}/files/Kommunikationspsychologie_fuer_Nerds.odp)
 
  * Referent: Vicki Ebeling
  * Typ: Vortrag
@@ -766,9 +766,9 @@ OpenDocument-Presentation](http://ubucon.de/sites/ubucon.de/files/Kommunikations
 Kubuntu-FAQ: Was Ihr schon immer über KDE wissen wolltet {#kubuntu-faq}
 --------------------------------------------------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/kubuntu-logo.png){width="64"}](http://ubucon.de/sites/ubucon.de/files/kubuntu-logo.png)
+[![]({filename}/files/kubuntu-logo.png){width="64"}]({filename}/files/kubuntu-logo.png)
 
-[![](http://ubucon.de/sites/ubucon.de/files/kde-logo.png){width="64"}](http://ubucon.de/sites/ubucon.de/files/kde-logo.png)
+[![]({filename}/files/kde-logo.png){width="64"}]({filename}/files/kde-logo.png)
 
 Wer Kubuntu nutzt oder nutzen will, hat sicherlich auch Fragen zu dem
 System und der Desktop-Umgebung KDE.
@@ -825,7 +825,7 @@ vor allem Technologien des sogenannten Semantic Webs wie z. B. das
 Ressource Description Framework (RDF) und OWL-Ontologien.
 
 [Vortragsunterlagen als
-PDF](/sites/ubucon.de/files/2013-Jahns-Ubucon.pdf)
+PDF]({filename}/files/2013-Jahns-Ubucon.pdf)
 
  * Referent: Veit Jahns
  * Typ: Vortrag
@@ -891,7 +891,7 @@ möchte, was es mit dieser Gruppe auf sich hat, kann gern vorbeischauen.
 Mobile Open-Source-Systeme im Überblick {#mobil}
 ---------------------------------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/alcatel_one_touch_fire.jpg){width="150"}](http://ubucon.de/sites/ubucon.de/files/alcatel_one_touch_fire.jpg)
+[![]({filename}/files/alcatel_one_touch_fire.jpg){width="150"}]({filename}/files/alcatel_one_touch_fire.jpg)
 
 Mittlerweile gibt es eine größere Anzahl von Betriebssystemen für
 Smartphones und Tablets, die auf dem Linux-Kernel basieren und unter
@@ -905,7 +905,7 @@ Linux-Systemen und geht dabei sowohl auf Vor- als auch auf Nachteile der
 entsprechende Systeme ein.
 
 [Vortragsunterlagen als
-PDF](/sites/ubucon.de/files/MobileOSS-ubucon2013.pdf)
+PDF]({filename}/files/MobileOSS-ubucon2013.pdf)
 
  * Referent: Sujeevan Vijayakumaran
  * Typ: Vortrag
@@ -932,7 +932,7 @@ empfohlen erst den Vortrag zu hören, auch wenn dadurch eine Teilnahme am
 Keysigning verhindert wird.
 
 [Vortragsfolien als
-PDF](/sites/ubucon.de/files/openpgp-introduction.pdf)
+PDF]({filename}/files/openpgp-introduction.pdf)
 
  * Referent: Jens Erat
  * Typ: Vortrag
@@ -973,7 +973,7 @@ Datensicherheit sowie die Systemsicherheit zu beachten sind.
 Back to the Grassroots – Wolken pflanzen mit ownCloud {#owncloud}
 -----------------------------------------------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/owncloud.png){width="120"}](http://ubucon.de/sites/ubucon.de/files/owncloud.png)
+[![]({filename}/files/owncloud.png){width="120"}]({filename}/files/owncloud.png)
 
 Daten, wie Dokumente, Fotos, Video bilden mittlerweile ganze Leben ab.
 Wir sind soziale Wesen, die diese auch mal mit dieser oder jener Person
@@ -986,7 +986,7 @@ mit der man seinen universellen Onlinespeicher realisiert. Unter
 Betrachtung des zeitgenössischen Kontextes wird ownCloud vorgestellt, um
 hoffentlich viele neue Wölkchen wachsen zu sehen
 
-[Vortragsunterlagen als PDF](/sites/ubucon.de/files/owncloud.pdf)
+[Vortragsunterlagen als PDF]({filename}/files/owncloud.pdf)
 
  * Referent: Arthur Schiwon
  * Typ: Vortrag
@@ -1020,7 +1020,7 @@ werden.
 Podcasten unter Linux {#podcast}
 ---------------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/radiotux.png){width="150"}](http://ubucon.de/sites/ubucon.de/files/radiotux.png)
+[![]({filename}/files/radiotux.png){width="150"}]({filename}/files/radiotux.png)
 
 Wie funktioniert ein Online Radio bzw. ein Podcast eigentlich? Wie geht
 das alles mit Open-Source-Software und wie hat sich Podcasting in den
@@ -1029,7 +1029,7 @@ on Demand“ seit mehr als zehn Jahren und wir wollen Euch informieren,
 Eure Fragen beantworten und mit Euch diskutieren.
 
 [Vortragsfolien als
-PDF](/sites/ubucon.de/files/vortrag_ubucon2013_podcasten.pdf)
+PDF]({filename}/files/vortrag_ubucon2013_podcasten.pdf)
 
  * Referent: Ingo Ebel
  * Typ: Vortrag/Diskussionsrunde
@@ -1080,7 +1080,7 @@ Eigenheiten und Beschränkungen unter Linxu eingegangen.
 Raspberry Pi {#raspi}
 ------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/RaspberryPi.jpg){width="150"}](http://ubucon.de/sites/ubucon.de/files/RaspberryPi.jpg)
+[![]({filename}/files/RaspberryPi.jpg){width="150"}]({filename}/files/RaspberryPi.jpg)
 
 Der [Raspberry Pi](http://www.raspberrypi.org/) ist ein
 kreditkartengroßer Einplatinencomputer, der von der Raspberry Pi
@@ -1095,7 +1095,7 @@ Anwendungsbeispiel für ein Mediencenter auf Basis des Raspberry Pi
 gezeigt.
 
 [Vortragsfolien als Open
-Document](/sites/ubucon.de/files/RasperryPi_Ubucon2013.odp)
+Document]({filename}/files/RasperryPi_Ubucon2013.odp)
 
  * Referent: Thorsten Zieleit
  * Typ: Vortrag
@@ -1104,7 +1104,7 @@ Document](/sites/ubucon.de/files/RasperryPi_Ubucon2013.odp)
 Treffe das ubuntuusers.de-Team {#ubuntuusers}
 ------------------------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/ubuntuusers.png){width="64"}](http://ubucon.de/sites/ubucon.de/files/ubuntuusers.png)
+[![]({filename}/files/ubuntuusers.png){width="64"}]({filename}/files/ubuntuusers.png)
 
 Es gibt einen Einstieg, wie das ubuntuusers.de Team organisiert ist und
 wie es sich in den Jahren entwickelt hat. Nach dem kurzen Input kann mit
@@ -1120,7 +1120,7 @@ kennen.
 Ubuntu Touch {#ubuntu_touch}
 ------------
 
-[![](http://ubucon.de/sites/ubucon.de/files/ubuntu_touch.jpg){width="100"}](http://ubucon.de/sites/ubucon.de/files/ubuntu_touch.jpg)
+[![]({filename}/files/ubuntu_touch.jpg){width="100"}]({filename}/files/ubuntu_touch.jpg)
 
 Canonical betritt mit [Ubuntu Touch](http://www.ubuntu.com/phone) den
 Markt für mobile Betriebssysteme und geht dabei neue Wege, um Ubuntu auf
@@ -1177,7 +1177,7 @@ Heimatverzeichnissen, die Erstellung von Cronjobs oder das Ausführen
 individueller Autostartskripte ermöglichen.
 
 [Vortragsfolien als
-PDF](http://ubucon.de/sites/ubucon.de/files/Ubucon2013_Univention-Corporate-Client.pdf)
+PDF]({filename}/files/Ubucon2013_Univention-Corporate-Client.pdf)
 
  * Referent: Erik Damrose (Univention)
  * Typ: Vortrag
@@ -1244,7 +1244,7 @@ geschilderten Situation erläutert, und es wird das mit der
 Rechtsabteilung von Canonical verabredete Verfahren vorgestellt.
 
 [Vortragsfolien als
-PDF](http://ubucon.de/sites/ubucon.de/files/Ubucon-Was-muss-ich-tun-damit-ich-ein-Ubuntu-System-rechtskonform-weiterverbreiten-kann.pdf)
+PDF]({filename}/files/Ubucon-Was-muss-ich-tun-damit-ich-ein-Ubuntu-System-rechtskonform-weiterverbreiten-kann.pdf)
 
  * Referent: Carsten Emde (OSADL eG)
  * Typ: Vortrag

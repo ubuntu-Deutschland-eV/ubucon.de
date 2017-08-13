@@ -39,9 +39,6 @@ Ikhaya](http://ikhaya.ubuntuusers.de/2012/12/04/organisationskommitee-fuer-die-u
 nach Organisatoren Ausschau gehalten.
 
 
-![](http://media.cdn.ubuntu-de.org/portal/files/Ubucon-Orga-2013.png){width="100%"}
-
-
 Einzelne Rollen konnten im IRC vergeben werden, wobei aber nicht alle
 Posten besetzt sind. Für folgende Bereiche werden noch ein oder zwei
 Verantwortliche gesucht:
@@ -76,6 +73,3 @@ alle Ubuntu-Nutzer im deutschsprachigen Raum anbieten zu können.
 
 
 Euer Ubucon-Organisationsteam
-
-
-

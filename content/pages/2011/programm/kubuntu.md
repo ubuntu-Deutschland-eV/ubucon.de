@@ -89,8 +89,5 @@ Text fehlt noch.
 ### Links
 
 -   [Kubuntu-de.org](http://www.kubuntu-de.org/)
--   [Download der
-    Präsentation](http://www.ubucon.de/sites/www.ubucon.local/files/kubuntu-ubucon.pdf)
-    (pdf)
-
+-   [Download der Präsentation]({filename}/files/kubuntu-ubucon.pdf) (pdf)
 

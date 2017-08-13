@@ -6,7 +6,7 @@ Use this form to register **yourself** for the **Best individual entry**
 category. Please note the following things before you submit:
 
  * Read the [Terms of
-Entry](/sites/ubucon.de/files/UbuContest-Termsofentry_0.pdf) to make
+Entry]({filename}/files/UbuContest-Termsofentry_0.pdf) to make
 sure that you're allowed to participate.
 
  * Make sure you've understood all the rules. If you have any questions,
@@ -16,7 +16,7 @@ once.
 
  * Do not register entries that aren't your own work, are not fully
 licensed under an open source license, etc. See the [Terms of
-Entry](sites/ubucon.de/files/UbuContest-Termsofentry_0.pdf) for a list
+Entry]({filename}/files/UbuContest-Termsofentry_0.pdf) for a list
 of requirements.
 
  * You may register up to two entries, but please do not register projects

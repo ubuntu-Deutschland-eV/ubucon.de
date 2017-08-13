@@ -98,7 +98,7 @@ Fenstermanager und Compositor der KDE Plasma Workspaces.
 <td>
 <td>
 ![Foto von Martin
-Gräßlin](/sites/ubucon.de/files/martin-graesslin.jpg){width="150"}
+Gräßlin]({filename}/files/martin-graesslin.jpg){width="150"}
 
 </td>
 </td>

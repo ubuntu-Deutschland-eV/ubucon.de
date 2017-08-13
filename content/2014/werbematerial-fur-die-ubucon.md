@@ -9,9 +9,7 @@ Karten in Form von Visitenkarten verwendet. Hier haben wir ein Foto von
 einem Flyer, der sich vom Layout an dem Flyer vom letzten Jahr
 orientiert:
 
-
-![](http://ubucon.de/sites/ubucon.de/files/ubucon_flyer.jpg){width="300"}
-
+![]({filename}/files/ubucon_flyer.jpg){width="300"}
 
 Für weitere Werbemaßnahmen können sich LUG, Stammtische oder auch andere
 die für die Veranstaltung Werbung machen wollen, diese Flyer gerne bei

@@ -301,7 +301,7 @@ Die Beiträge sind alphabetisch sortiert.
 Ambilight mit Raspberry Pi/Hyperion und Ubuntu {#raspberrypi}
 ----------------------------------------------
 
-![ChristianRost](http://ubucon.de/sites/ubucon.de/files/webform/christian_rost.jpg){width="150"}
+![ChristianRost]({filename}/files/webform/christian_rost.jpg){width="150"}
 
 Philips hat mit Ambilight eine Technologie patentieren lassen, die das
 Fernsehbild für den Zuschauer optisch größer erscheinen lässt.
@@ -334,7 +334,7 @@ verschiedenste Aufgaben herhalten.
 Android mit Google Befreiung, PlayStore Apps im eigenen Repo {#androidgoogle}
 ------------------------------------------------------------
 
-![Alexander Rudolf](http://ubucon.de/sites/ubucon.de/files/webform/alexander_rudolf.jpg){width="150"}
+![Alexander Rudolf]({filename}/files/webform/alexander_rudolf.jpg){width="150"}
 
 Google's Android ist eines der verbreitetsten Betriebssysteme für
 Smartphones. Wer Apps aus dem PlayStore verwenden möchte, braucht ein
@@ -361,7 +361,7 @@ Themen Systemadministration, Virtualisierung und IT Security.
  * Zielgruppe: Fortgeschrittene
 
 [Slides als
-PDF](/sites/ubucon.de/files/ubucon15_android_apps+repo-presentation.pdf)
+PDF]({filename}/files/ubucon15_android_apps+repo-presentation.pdf)
 
 Die erste, einfache SailfishOS App (vom Anfänger) **entfällt** {#sailfish}
 --------------------------------------------------------------
@@ -407,7 +407,7 @@ viel Frust erleben, wenn es um Web-Tests geht (bspw. durch das
 unterschiedliche Seitenrendering der Browser).
 
 [![Simon
-Meggle](http://ubucon.de/sites/ubucon.de/files/webform/Simon_01_klein.jpg){width="150"}](http://ubucon.de/sites/ubucon.de/files/webform/Simon_01_klein.jpg)
+Meggle]({filename}/files/webform/Simon_01_klein.jpg){width="150"}]({filename}/files/webform/Simon_01_klein.jpg)
 
 Der Clou an Sakuli: hier können beide Tools parallel verwendet werden,
 was für E2E-Tests ganz neue Möglichkeiten eröffnet: angefangen von
@@ -435,7 +435,7 @@ PDF](http://people.ubuntu.com/~torsten.franz/ubucon2015/Sakuli_SimonMeggle.pdf)
 Freie Software im Businesseinsatz am Beispiel von SQL Ledger {#business}
 ------------------------------------------------------------
 
-[![Maik Wagner](http://ubucon.de/sites/ubucon.de/files/webform/Bewerbungsfoto.jpg){width="150"}](http://ubucon.de/sites/ubucon.de/files/webform/Bewerbungsfoto.jpg)
+[![Maik Wagner]({filename}/files/webform/Bewerbungsfoto.jpg){width="150"}]({filename}/files/webform/Bewerbungsfoto.jpg)
 
 SQL Ledger zählt zu den ältesten ERP-Systemen in der Linuxwelt. Es wird
 unter der GPL Version 3 lizensiert. Der Vortrag erläutert verschiedenste
@@ -458,7 +458,7 @@ Ledger.
  * Zielgruppe: Einsteiger
 
 [Vortragsunterlagen als
-odp](/sites/ubucon.de/files/sql-ledger_presentation_ubucon.odp)
+odp]({filename}/files/sql-ledger_presentation_ubucon.odp)
 
 5 Jahre LibreOffice - Rückblick und Ausblick {#libreoffice}
 --------------------------------------------
@@ -475,7 +475,7 @@ Community in dieser Zeit, und einen Ausblick zu geben auf das, was die
 LibreOffice-Anwender in der Zukunft erwartet.
 
 ![Florian
-Effenberger](http://ubucon.de/sites/ubucon.de/files/floeff2015new.png){width="150"}
+Effenberger]({filename}/files/floeff2015new.png){width="150"}
 
 Florian Effenberger engagiert sich seit über 12 Jahren für freie
 Software und hat viele Jahre als freier Journalist für zahlreiche
@@ -510,7 +510,7 @@ Voraussetzung zum Mitmachen: Gimp, Inkscape, Scribus, optional VLC und
 Webcam
 
 ![Matthias
-Baran](http://ubucon.de/sites/ubucon.de/files/webform/matthias_baran.png){width="133"}
+Baran]({filename}/files/webform/matthias_baran.png){width="133"}
 
 Matthias Baran arbeitet als freiberuflicher Designer seit vielen Jahren
 mit freier Software, für die meisten Projekte mittlerweile
@@ -553,7 +553,7 @@ installierten Ubuntu 14.04LTS mitbringen.
 Webseite: <http://www.privacyidea.org>
 
 [![Cornelius
-Kölbel](http://ubucon.de/sites/ubucon.de/files/webform/3c515b8.jpg){width="150"}](http://ubucon.de/sites/ubucon.de/files/webform/3c515b8.jpg)
+Kölbel]({filename}/files/webform/3c515b8.jpg){width="150"}]({filename}/files/webform/3c515b8.jpg)
 
 Cornelius ist seit 12 in der IT-Security tätig und hier speziell in den
 Bereichen Starke Authentisierung, Verschlüsselung und PKI. Mit dem OSS
@@ -586,7 +586,7 @@ on anything you like! We will have a few Banana and Raspberry Pi's as
 well to experiment with and install Ubuntu and ownCloud on.
 
 ![Jos
-Poortvliet](http://ubucon.de/sites/ubucon.de/files/webform/headcrop-small.jpg)
+Poortvliet]({filename}/files/webform/headcrop-small.jpg)
 
 Jos Poortvliet ist ownCloud Community Manager. Er wird den Beitrag
 entweder auf deutsch oder englisch halten. Einen Bericht zu solch einen
@@ -613,7 +613,7 @@ ausgerendert wird.
 Voraussetzung zum Mitmachen: Blender
 
 ![Matthias
-Baran](http://ubucon.de/sites/ubucon.de/files/webform/matthias_baran.png){width="133"}
+Baran]({filename}/files/webform/matthias_baran.png){width="133"}
 
 Matthias Baran arbeitet als freiberuflicher Designer seit vielen Jahren
 mit freier Software, für die meisten Projekte mittlerweile
@@ -632,7 +632,7 @@ Python.
 Linux Presentation Day {#linuxpresentationday}
 ----------------------
 
-![Hauke Laging](http://ubucon.de/sites/ubucon.de/files/webform/crypto-hauke.300x382.jpg){width="150"}
+![Hauke Laging]({filename}/files/webform/crypto-hauke.300x382.jpg){width="150"}
 
 Die Berliner Linux User Group e.V. (BeLUG) organisiert derzeit eine
 deutschlandweite Linux-Infoveranstaltung, die wahrscheinlich die größte
@@ -781,12 +781,12 @@ Anfang 2012 angestellter Entwickler.)
  * Zielgruppe: Einsteiger
 
 [Slides als
-PDF](/sites/ubucon.de/files/Introducing%20ownCloud%20and%20what's%20new%20in%20ownCloud%20Server%208.2.pdf)
+PDF]({filename}/files/Introducing%20ownCloud%20and%20what's%20new%20in%20ownCloud%20Server%208.2.pdf)
 
 Paketbau unter Ubuntu {#paketbau}
 ---------------------
 
-![Marc Knoll](http://ubucon.de/sites/ubucon.de/files/mitarbeiter1.jpg){width="150"}
+![Marc Knoll]({filename}/files/mitarbeiter1.jpg){width="150"}
 
 Das Debian-Derivat Ubuntu basiert auf dem Paketformat "deb". Die
 Erstellung solcher Pakete ist nicht ganz trivial.
@@ -820,7 +820,7 @@ Dieser Workshop führt in die Benutzung des Programmes ein und zeigt
 verschiedene Optionen der Präsentations-Erstellung.
 
 ![Matthias
-Baran](http://ubucon.de/sites/ubucon.de/files/webform/matthias_baran.png){width="133"}
+Baran]({filename}/files/webform/matthias_baran.png){width="133"}
 
 Matthias Baran arbeitet als freiberuflicher Designer seit vielen Jahren
 mit freier Software, für die meisten Projekte mittlerweile
@@ -955,12 +955,12 @@ oder unsinnige Projekte, die u.a. auch in Tcl realisiert werden.
  * Dauer: 1,5 h
  * Zielgruppe: Fortgeschrittene
 
-[Slides als PDF](/sites/ubucon.de/files/tcl_vs_python.pdf)
+[Slides als PDF]({filename}/files/tcl_vs_python.pdf)
 
 The Ubuntu phone and the road to convergence {#ubuntuconvergence}
 --------------------------------------------
 
-![David Planella](http://ubucon.de/sites/ubucon.de/files/webform/david-planella.jpg){width="150"}
+![David Planella]({filename}/files/webform/david-planella.jpg){width="150"}
 
 The story of the creation of the Ubuntu phone, growing a developer ecosystem
 and a vibrant community along the way. The road ahead will also be layed
@@ -1010,7 +1010,7 @@ Dienstleistungen rund um Serverbetreuung zusammen.
  * Dauer: 1h
  * Zielgruppe: Einsteiger
 
-[Slides als PDF](/sites/ubucon.de/files/overlay_annot.pdf)
+[Slides als PDF]({filename}/files/overlay_annot.pdf)
 
 Ubucon Linux Quiz 2015 {#quiz}
 ----------------------
@@ -1060,7 +1060,7 @@ Simon Raffeiner und Sujeevan Vijayakumaran gehören beide zur Gruppe der
 Ubuntu-Server als Backup- und Fileserver betreiben {#backupserver}
 --------------------------------------------------
 
-![Daniel Schulze](http://ubucon.de/sites/ubucon.de/files/mitarbeiter2.jpg){width="133"}
+![Daniel Schulze]({filename}/files/mitarbeiter2.jpg){width="133"}
 
 Mit Ubuntu gibt es eine einfach zu installierende Server-Lösung, die sich
 immer größerer Beliebtheit erfreut.
@@ -1088,7 +1088,7 @@ Ubuntu Touch funktioniert und mit welchen Gesten die Programme zu
 bedienen sind.
 
 ![Torsten
-Franz](/sites/ubucon.de/files/webform/torsten_franz_kopf.jpg){width="133"}
+Franz]({filename}/files/webform/torsten_franz_kopf.jpg){width="133"}
 
 Torsten arbeitet als Lead QA bei ABOUT YOU in Hamburg. In seiner
 ehrenamtlichen Nebenbeschäftigung kümmert er sich um Ubuntu. Er geht auf
@@ -1129,7 +1129,7 @@ Eventuell hat ja jemand auch noch nach den Workshop Lust sich weiter an
 den Übersetzungen zu beteiligen. Zu tun gibt es immer was …
 
 ![Torsten
-Franz](/sites/ubucon.de/files/webform/torsten_franz_kopf.jpg){width="133"}
+Franz]({filename}/files/webform/torsten_franz_kopf.jpg){width="133"}
 
 Torsten arbeitet als Lead QA bei ABOUT YOU in Hamburg. In seiner
 ehrenamtlichen Nebenbeschäftigung kümmert er sich um Ubuntu. Er geht auf
@@ -1179,7 +1179,7 @@ Cloud computing - warum müssen wir es machen, was muss man dabei
 beachten, und was hat es mit Software Defined Networks zu tun.
 
 ![Kristian
-Köhntopp](http://ubucon.de/sites/ubucon.de/files/webform/OpenStackDach_11062015_0661.jpeg){width="200"}
+Köhntopp]({filename}/files/webform/OpenStackDach_11062015_0661.jpeg){width="200"}
 
 Kristian Köhntopp ist Cloudperson bei SysEleven in Berlin und
 Gründungsmitglied im Openstack DACH e.V. In früheren Leben war er
@@ -1198,7 +1198,7 @@ hervorgerufenen Leid zu tun haben. Sein Stream ist via
 Wie schreibe ich eine App für Ubuntu mit QML {#wieapp}
 --------------------------------------------
 
-![Christian Dywan](http://ubucon.de/sites/ubucon.de/files/webform/sonnenbrille.jpg){width="133"}
+![Christian Dywan]({filename}/files/webform/sonnenbrille.jpg){width="133"}
 
 Im Zuge dieses Workshops wird ein Feedreader mit Hilfe von QtCreator
 gebaut, der RSS-Quellen auflisten und anzeigen kann. Er umfasst außerdem
@@ -1220,7 +1220,7 @@ wine – Nutzung und Grundüberlegungen {#wine}
 ------------------------------------
 
 [![Maik
-Wagner](http://ubucon.de/sites/ubucon.de/files/webform/Bewerbungsfoto.jpg){width="133"}](http://ubucon.de/sites/ubucon.de/files/webform/Bewerbungsfoto.jpg)
+Wagner]({filename}/files/webform/Bewerbungsfoto.jpg){width="133"}]({filename}/files/webform/Bewerbungsfoto.jpg)
 
 Hier werden einige Grundüberlegungen zum Thema "wine" angesprochen: Wie
 finde ich heraus, welche Version ich habe, Stabile Version vs.
@@ -1238,7 +1238,7 @@ wine. Beruflich leistet er Übersetzungsdienste für freie Software.
  * Dauer: 1h
  * Zielgruppe: Einsteiger
 
-[Vortragsunterlagen als odp](/sites/ubucon.de/files/wineVortrag.odp)
+[Vortragsunterlagen als odp]({filename}/files/wineVortrag.odp)
 
 Wir bauen einen Homeserver {#homeserver}
 --------------------------

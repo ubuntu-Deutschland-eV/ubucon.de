@@ -10,9 +10,7 @@ Besucher, Organisatoren und Speaker am Weihnachtsmarkt in Essen, der an
 diesem Tag eröffnete. Veranstalter der UbuCon Europe war der [ubuntu
 Deutschland e.V.](http://verein.ubuntu-de.org/).
 
-
-![](http://ubucon.de/sites/ubucon.de/files/ubucon2016_audience.jpg){height="400"}
-
+![]({filename}/files/ubucon2016_audience.jpg){height="400"}
 
 ### Freitag
 
@@ -26,7 +24,7 @@ kleinen Gruppe fanden sich Personen aus acht Ländern und zwei
 Kontinenten zusammen.
 
 
-![](http://ubucon.de/sites/ubucon.de/files/ubucon2016_desk.jpg){height="400"}
+![]({filename}/files/ubucon2016_desk.jpg){height="400"}
 
 
 In der zweistündigen Führung durch das Museum lernten die Besucher die
@@ -41,7 +39,7 @@ Mitternacht der Verantaltungsort geschlossen wurde.
 ### Samstag
 
 
-![](http://ubucon.de/sites/ubucon.de/files/ubucon2016_jane_keynote.jpg){width="400"}
+![]({filename}/files/ubucon2016_jane_keynote.jpg){width="400"}
 
 
 Der Samstag begann recht früh. Ab 8:30 durften sich alle Teilnehmer ihre
@@ -126,7 +124,7 @@ Peru auf sich. Vier weitere Personen reisten ebenfalls von außerhalb
 Europas an, nämlich aus den USA.
 
 
-![](http://ubucon.de/sites/ubucon.de/files/ubucon2016_stats.png){height="400"}
+![]({filename}/files/ubucon2016_stats.png){height="400"}
 
 
 Die Stimmung war durchaus sehr gut über die gesamte Veranstaltung, das

@@ -1,7 +1,7 @@
 Title: Spiele-Lounge
 Status: Hidden
 
-[![](http://ubucon.de/sites/ubucon.de/files/hibx_papoyo.jpg){width="350"}](http://ubucon.de/sites/ubucon.de/files/hibx_papoyo.jpg)
+[![]({filename}/files/hibx_papoyo.jpg){width="350"}]({filename}/files/hibx_papoyo.jpg)
 Szene aus dem Spiel Papo & Yo
 
 Gerade mal keinen Vortrag, der von Interesse ist? Lieber in der

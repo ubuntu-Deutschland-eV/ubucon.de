@@ -3,7 +3,7 @@ Date: 2015-05-24 14:52
 Author: toddy
 Slug: ubucon-2015-community-in-touch
 
-![](/sites/ubucon.de/files/hwtk.jpg){width="200"}
+![]({filename}/files/hwtk.jpg){width="200"}
 
 
 Vor wenigen Wochen haben wir gefragt, ob Ihr an einer [virtuellen
@@ -23,8 +23,8 @@ austauschen können. Zum anderen soll es auch andeuten, dass das Thema
 soll.
 
 
-Zur Ubucon haben wir nun den [Call for
-Papers](http://ubucon.de/2015/cfp) ausgerufen. Menschen die einen
+Zur Ubucon haben wir nun den [Call for Papers](http://ubucon.de/2015/cfp)
+ ausgerufen. Menschen die einen
 Vortrag, einen Workshop, eine Diskussionsrunde oder ähnliche
 Veranstaltungen halten und leiten möchten, könnten diese nun einreichen.
 Doch auch Themenwünsche können eingereicht werden, wenn jemand etwas zu

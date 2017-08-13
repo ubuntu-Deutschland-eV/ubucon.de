@@ -46,10 +46,10 @@ auf der jeweiligen Seite unter *„Links“* verlinkt:
 ### Plakete und Flyer
 
  * [Plakat zur Ubucon
-2011](/sites/ubucon.de/files/Ubucon_Plakat_A1_2011_pdfx3_1.pdf) (PDF,
+2011]({filename}/files/Ubucon_Plakat_A1_2011_pdfx3_1.pdf) (PDF,
 1.32 MB)
  * [Flyer zur Ubucon
-2011](/sites/ubucon.de/files/ubucon_flyer_2011_pdfx3_1.pdf) (PDF, 1.34
+2011]({filename}/files/ubucon_flyer_2011_pdfx3_1.pdf) (PDF, 1.34
 MB)
 
 © 2011 HansM

@@ -14,7 +14,7 @@ sind zahlreiche Aktivitäten geplant.
 Für Freitag ist ein **Ritteressen** auf der [Burg
 Katlenburg](http://www.katlenburg.de/) geplant, was pro Person 37,50
 Euro kostet ([Menü als
-PDF](http://ubucon.de/sites/ubucon.de/files/Bankettmappe_2014.pdf)). Das
+PDF]({filename}/files/Bankettmappe_2014.pdf)). Das
 Gelage dauert drei bis vier Stunden und wird von einem Rahmenprogramm
 begleitet. Ob das Essen stattfindet, hängt davon ab, ob die
 **Mindestteilnehmerzahl von 20 Personen** erreicht wird.

@@ -7,7 +7,7 @@ contribution** categories. Please note the following things before you
 submit:
 
 -   Read the [Terms of
-    Entry](/sites/ubucon.de/files/UbuContest-Termsofentry_0.pdf) to make
+    Entry]({filename}/files/UbuContest-Termsofentry_0.pdf) to make
     sure that the person you're nominating is allowed to partecipate.
 -   Make sure you've understood all the rules. If you have any
     questions, please [contact

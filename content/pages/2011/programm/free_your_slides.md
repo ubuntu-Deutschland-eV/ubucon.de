@@ -82,8 +82,7 @@ von modernen Browsern dargestellt werden kann. Ein wenig JavaScript dazu
 und schon werden daraus animierte Slides, die jenen von Prezi in Nichts
 nachstehen.
 
-![Sirko
-Kemter](http://www.ubucon.de/sites/www.ubucon.local/files/sirko.png){width="139"}
+![Sirko Kemter]({filename}/files/sirko.png){width="139"}
 
 ### Über den Referenten
 

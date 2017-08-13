@@ -91,8 +91,7 @@ Text fehlt noch.
 ### Links
 
 -   [ownCloud](http://owncloud.org/)
--   [Download der
-    Präsentation](http://www.ubucon.de/sites/www.ubucon.local/files/owncloud-ubucon.pdf)
+-   [Download der Präsentation]({filename}/files/owncloud-ubucon.pdf)
     (pdf)
 
 

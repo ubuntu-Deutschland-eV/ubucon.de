@@ -69,8 +69,8 @@ Laptop mit Inkscape (Version 0.48)
 </td>
 </tr>
 </table>
-![Icon
-Workshop](http://www.ubucon.de/sites/www.ubucon.local/files/ubucon-wkshp-icon.png){width="139"}
+
+![Icon Workshop]({filename}/files/ubucon-wkshp-icon.png){width="139"}
 
 ### Inhalt
 
@@ -82,8 +82,7 @@ umsetzen.
 Zum Mitmachen benötigt man einen Laptop mit funktionsfähiger, aktueller
 Inkscape-Version (0.48).
 
-![Sirko
-Kemter](http://www.ubucon.de/sites/www.ubucon.local/files/sirko.png){width="139"}
+![Sirko Kemter]({filename}/files/sirko.png){width="139"}
 
 ### Über den Referenten
 

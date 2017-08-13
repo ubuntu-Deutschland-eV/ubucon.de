@@ -99,7 +99,7 @@ Text fehlt noch.
 -   [x2go](http://www.x2go.org/)
 -   [KVM – Kernel-based Virtual Machine](http://www.linux-kvm.org/)
 -   [Download der
-    Präsentation](http://www.ubucon.de/sites/www.ubucon.local/files/Ubucon_2011_vfinal.pdf)
+    Präsentation]({filename}/files/Ubucon_2011_vfinal.pdf)
     (pdf)
 
 

@@ -6,7 +6,7 @@ Use this form to register **your team** for the **Best team entry**
 category. Please note the following things before you submit:
 
 -   Read the [Terms of
-    Entry](/sites/ubucon.de/files/UbuContest-Termsofentry_0.pdf) to make
+    Entry]({filename}/files/UbuContest-Termsofentry_0.pdf) to make
     sure that you and all members of your team are allowed to
     participate.
 -   Make sure you've understood all the rules. If you have any
@@ -17,7 +17,7 @@ category. Please note the following things before you submit:
     time.
 -   Do not register entries that aren't your own work, are not fully
     licensed under an open source license, etc. See the [Terms of
-    Entry](/sites/ubucon.de/files/UbuContest-Termsofentry_0.pdf) for a
+    Entry]({filename}/files/UbuContest-Termsofentry_0.pdf) for a
     list of requirements.
 -   You may register up to two entries, but please do not register
     projects that other teams/individuals have already submitted.

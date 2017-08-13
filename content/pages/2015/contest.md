@@ -43,7 +43,7 @@ others are excluded, but most of the people in the world can
 participate.
 
 Please see the [Terms of
-Entry](/sites/ubucon.de/files/UbuContest-Termsofentry_0.pdf) for a
+Entry]({filename}/files/UbuContest-Termsofentry_0.pdf) for a
 definitive list.
 
 What about the categories?
@@ -78,7 +78,7 @@ What about the categories?
     people will probably surprise us in ways we never imagined.
 
 Please see the [Terms of
-Entry](/sites/ubucon.de/files/UbuContest-Termsofentry_0.pdf) for a full
+Entry]({filename}/files/UbuContest-Termsofentry_0.pdf) for a full
 set of rules.
 
 What about restrictions in the "Best entry" category?
@@ -99,7 +99,7 @@ will allow those lone developers to use translations provided by third
 parties.
 
 See the [Terms of
-Entry](/sites/ubucon.de/files/UbuContest-Termsofentry_0.pdf) for more
+Entry]({filename}/files/UbuContest-Termsofentry_0.pdf) for more
 details.
 
 What about the prizes?
@@ -112,7 +112,7 @@ category. There will also be several bq and Meizu phones, t-shirts, and
 items from the Ubuntu store.
 
 See the [Terms of
-Entry](/sites/ubucon.de/files/UbuContest-Termsofentry_0.pdf) for a full
+Entry]({filename}/files/UbuContest-Termsofentry_0.pdf) for a full
 list of prizes.
 
 What about the jury?

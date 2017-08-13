@@ -3,7 +3,7 @@ Date: 2015-05-24 12:42
 Author: toddy
 Slug: call-for-papers
 
-![](/sites/ubucon.de/files/hwtk.jpg){width="200"}
+![]({filename}/files/hwtk.jpg){width="200"}
 
 
 ### Wunschthemen suchen …

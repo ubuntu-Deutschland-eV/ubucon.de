@@ -2,7 +2,7 @@ Title: LPI-Prüfungen
 Status: Hidden
 
 [![Linux Professional
-Institute](http://ubucon.de/sites/ubucon.de/files/LPI_logo_1_kl.jpg){width="200"}](http://www.lpice.eu/de/home.html)
+Institute]({filename}/files/LPI_logo_1_kl.jpg){width="200"}](http://www.lpice.eu/de/home.html)
 
 Das [Linux Professional Institute (LPI)](http://www.lpi.org/) fördert
 und zertifiziert weltweit grundlegende Fachkenntnisse und

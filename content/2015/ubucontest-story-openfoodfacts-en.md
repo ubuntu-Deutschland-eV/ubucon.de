@@ -9,14 +9,11 @@ the “OpenFoodFacts” app, which provides access to
 [OpenFoodFacts](http://us.openfoodfacts.org/), a “food products database
 made by everyone, for everyone”.
 
-
-![](http://ubucon.de/sites/ubucon.de/files/openfoodfacts_1.png){height="400"}
-
+![]({filename}/files/openfoodfacts_1.png){height="400"}
 
 The database does not only list ingredients, but many other details like
 nutritional value, packaging, a list of stores which sell the product, a
 list of countries it is sold in etc.
-
 
 The OpenFoodFacts app for Ubuntu acts as a frontend to the website and
 adapts the information to the phone screen. Judging from the

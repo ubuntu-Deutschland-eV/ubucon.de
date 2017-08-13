@@ -3,7 +3,7 @@ Date: 2015-07-17 11:10
 Author: Sujeevan
 Slug: announcing-ubucontest-2015
 
-![](/sites/ubucon.de/files/ubucontest.png){width="700"}  
+![]({filename}/files/ubucontest.png){width="700"}  
 
 Canonical Ltd. und die Teams der Ubucon Deutschland 2015 und des
 UbuContest 2015 sind erfreut, heute den Start des ersten UbuContest

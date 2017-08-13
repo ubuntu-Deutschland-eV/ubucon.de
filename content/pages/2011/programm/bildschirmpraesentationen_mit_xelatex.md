@@ -96,10 +96,10 @@ immer es geht, und beschäftigt sich deswegen auch mit Typographie.
 -   [Vorlage für Ubuntu-Präsentationen mit
     LaTeX](https://wiki.ubuntu.com/Presentations#Ubuntu)
 -   [Download der
-    Präsentation](http://www.ubucon.de/sites/www.ubucon.local/files/xelatex_beamer.pdf)
+    Präsentation]({filename}/files/xelatex_beamer.pdf)
     (pdf)
 -   [Download des
-    Präsentationsquellcodes](http://www.ubucon.de/sites/www.ubucon.local/files/xelatex_beamer.tex)
+    Präsentationsquellcodes]({filename}/files/xelatex_beamer.tex)
     (tex)
 
 

@@ -126,7 +126,7 @@ starteten.
 -   [Sebastian Meyer bei
     Google+](https://plus.google.com/103422154498784709654)
 -   [Download der
-    Präsentation](http://www.ubucon.de/sites/www.ubucon.local/files/Hugsun_oder_sorgloses_Podcasten.pdf)
+    Präsentation]({filename}/files/Hugsun_oder_sorgloses_Podcasten.pdf)
     (pdf)
 
 

@@ -69,8 +69,7 @@ Laptop mit Inkscape (Version 0.48)
 </td>
 </tr>
 </table>
-![Inscape ist
-magic](http://www.ubucon.de/sites/www.ubucon.local/files/ubucon-wkshop-magic.png){width="139"}
+![Inscape ist magic]({filename}/files/ubucon-wkshop-magic.png){width="139"}
 
 ### Inhalt
 
@@ -82,8 +81,7 @@ Tricks und Kniffe und am Ende sollen die Teilnehmer ihr eigenes
 Zum Mitmachen benötigt man einen Laptop mit funktionsfähiger, aktueller
 Inkscape-Version (0.48).
 
-![Sirko
-Kemter](http://www.ubucon.de/sites/www.ubucon.local/files/sirko.png){width="139"}
+![Sirko Kemter]({filename}/files/sirko.png){width="139"}
 
 ### Über den Referenten
 

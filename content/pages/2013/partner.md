@@ -13,7 +13,7 @@ Holding](http://www.srh.de/de/), bietet Menschen im Fall von Krankheit
 oder Behinderung Ausbildungen, Umschulungen und Hilfe bei der
 Integration ins Berufsleben an.
 
-[![](http://ubucon.de/sites/ubucon.de/files/SRH_BFW_HEIDELBERG_RGB.jpg){width="400"}](http://www.bfw-heidelberg.de/de/bfw-heidelberg/index.html)
+[![]({filename}/files/SRH_BFW_HEIDELBERG_RGB.jpg){width="400"}](http://www.bfw-heidelberg.de/de/bfw-heidelberg/index.html)
 
 Univention
 ----------
@@ -47,7 +47,7 @@ LPI umfassende, hochwertige und herstellerunabhängige
 Zertifizierungsprüfungen an.
 
 [![Linux Professional
-Institute](http://ubucon.de/sites/ubucon.de/files/LPI_logo_1_kl.jpg){width="250"}](http://www.lpice.eu/de/home.html)
+Institute]({filename}/files/LPI_logo_1_kl.jpg){width="250"}](http://www.lpice.eu/de/home.html)
 
 Galileo Press {#galileo}
 -------------
@@ -70,7 +70,7 @@ heruntergeladen werden. Für interessierte Nutzer von Video-Trainings
 stellt der Verlag eine Vielzahl an Videos online zur Verfügung.
 
 [![Galileo
-Computing](http://ubucon.de/sites/ubucon.de/files/Logo-Galileo-Computing_300px_breit_rgb.png){width="250"}](http://galileocomputing.de/)
+Computing]({filename}/files/Logo-Galileo-Computing_300px_breit_rgb.png){width="250"}](http://galileocomputing.de/)
 
 getDigital.de {#getdigital}
 -------------
@@ -80,7 +80,7 @@ Hier gibt es Gadgets, Computer-Zubehör, nützliche Tools und mehr - aber
 auch technisches Spielzeug, geekige Deko, Bücher und eine große Auswahl
 an T-Shirts für alle Lebenslagen.
 
-[![getDigital.de](http://ubucon.de/sites/ubucon.de/files/getdigital.png){width="250"}](http://getdigital.de/)
+[![getDigital.de]({filename}/files/getdigital.png){width="250"}](http://getdigital.de/)
 
 mitp-Verlag {#mitp}
 -----------
@@ -96,7 +96,7 @@ Täuschung“ und „Die Kunst des Einbruchs“ von Kevin Mitnick, „Die Kunst
 des Vertrauens“ von Bruce Schneier und „Die Kunst des Human Hacking“ von
 Christopher Hadnagy, eine ganze Reihe von Büchern gewidmet.
 
-[![mitp-Verlag](http://ubucon.de/sites/ubucon.de/files/mitp%20_logo.jpg){width="59"}](http://www.it-fachportal.de/)
+[![mitp-Verlag]({filename}/files/mitp%20_logo.jpg){width="59"}](http://www.it-fachportal.de/)
 
 O'Reilly
 --------
@@ -110,5 +110,5 @@ Konferenzen. Sein Ziel ist stets, auf ein in der Praxis tatsächlich
 vorhandenes, dringliches Informationsbedürfnis zu antworten und
 fundierte Lösungskonzepte zu bieten.
 
-[![O'Reilly](http://ubucon.de/sites/ubucon.de/files/oreilly_logo_4c.jpg){width="250"}](http://www.oreilly.de/)
+[![O'Reilly]({filename}/files/oreilly_logo_4c.jpg){width="250"}](http://www.oreilly.de/)
 

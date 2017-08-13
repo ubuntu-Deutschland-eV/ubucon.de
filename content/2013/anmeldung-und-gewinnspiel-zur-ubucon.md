@@ -84,7 +84,7 @@ freundlicherweise vom Verlag [Galileo
 Computing](http://galileocomputing.de/) zur Verfügung gestellt wurden.
 
 
-[![](http://ubucon.de/sites/ubucon.de/files/shell.jpg){height="120"}](http://ubucon.de/sites/ubucon.de/files/shell.jpg)  
+[![]({filename}/files/shell.jpg){height="120"}]({filename}/files/shell.jpg)  
 
 **[Shell-Programmierung – Das umfassende
 Handbuch](http://www.galileocomputing.de/katalog/buecher/titel/gp/titelID-3345)**
@@ -100,7 +100,7 @@ umfangreiche Linux-UNIX-Referenz bietet alle grundlegenden Kommandos in
 übersichtlicher Form.
 
 
-[![](http://ubucon.de/sites/ubucon.de/files/blender.jpg){height="120"}](http://ubucon.de/sites/ubucon.de/files/blender.jpg)  
+[![]({filename}/files/blender.jpg){height="120"}]({filename}/files/blender.jpg)  
 
 **[Blender 2.6 – Das umfassende
 Training](http://www.galileodesign.de/katalog/buecher/titel/gp/titelID-3042)**
@@ -116,7 +116,7 @@ Sebastian König zahlreiche Profi-Techniken, mit denen man einen
 3D-Charakter erstellen und animieren kann.
 
 
-[![](http://ubucon.de/sites/ubucon.de/files/einstieg-linux.jpg){height="120"}](http://ubucon.de/sites/ubucon.de/files/einstieg-linux.jpg)  
+[![]({filename}/files/einstieg-linux.jpg){height="120"}]({filename}/files/einstieg-linux.jpg)
 
 **[Einstieg in Linux – Linux verstehen und
 einsetzen](http://www.galileocomputing.de/katalog/buecher/titel/gp/titelID-3146)**
@@ -132,6 +132,3 @@ Man erfährt alles Wichtige zu Installation, grundlegender Funktionsweise
 von Linux, Bootstrap-Vorgang, Programmen und Prozessen, Administration,
 Shell, vi, X11, Netzwerken, Drucken und Textverarbeitung sowie
 Multimedia.
-
-
-

@@ -25,5 +25,5 @@ Hier zur Vorschau das A4-Poster (für die große Version auf das Bild
 klicken):
 
 [![Ubucon 2013
-Poster](http://ubucon.de/sites/ubucon.de/files/ubucon_2013_plakat_A4.png){width="250"}](http://ubucon.de/sites/ubucon.de/files/ubucon_2013_plakat_A4.png)
+Poster]({filename}/files/ubucon_2013_plakat_A4.png){width="250"}]({filename}/files/ubucon_2013_plakat_A4.png)
 

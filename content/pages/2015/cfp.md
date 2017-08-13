@@ -1,7 +1,7 @@
 Title: Call for Papers
 Status: Hidden
 
-![](/sites/ubucon.de/files/hwtk.jpg){width="200"}
+![]({filename}/files/hwtk.jpg){width="200"}
 
 ### Wunschthemen suchen …
 

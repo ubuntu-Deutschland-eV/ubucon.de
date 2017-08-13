@@ -98,7 +98,7 @@ beim Urheberrecht.
 -   [Institut für Rechtsfragen der Freien und Open Source Software
     (ifrOSS)](http://www.ifross.org/)
 -   [Download der
-    Präsentation](http://www.ubucon.de/sites/www.ubucon.local/files/Open_Source_Lizenzen.pdf)
+    Präsentation]({filename}/files/Open_Source_Lizenzen.pdf)
     (pdf)
 
 
