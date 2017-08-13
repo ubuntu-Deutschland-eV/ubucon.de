@@ -1,19 +1,37 @@
+# File Structure – Where should i put my content?
+
+Each year has own subfolders inside `content` *and* `content/pages`,
+for example `content/2011` and `content/pages/2011`.
+
+ * (news-)articles get inside of f.e. `content/2011`
+ * pages get inside of f.e. `content/pages/2011`. In comparison to
+ articles, pages dont change often and readers are not notified via RSS
+ about changes. Pages can be used for example for informations about
+ the event-location or the contact-page.
+ * static-files like images, zip-archives get into `content/files`. You can link
+ from articles to them via `[great description]({filename}/files/<myfile>)`
+
+So, to start into a new year, just run `mkdir content/2222
+content/pages/2222`. To define which entries are in the menu, just edit
+`MENUITEMS` inside of `pelicanconf.py`. Older pages will be accessible
+via the archive.
+
+For further informations see
+<http://docs.getpelican.com/en/stable/content.html>
+
 # Local Development
 
 Clone the git-Repository via
 
     $ git clone git@github.com:ubuntu-Deutschland-eV/verein.ubuntu-de.org.git
 
-Furthermore install `python-virtualenv`, if you use Ubuntu via
+Furthermore, install `python-virtualenv`. If you use Ubuntu via
 
     $ sudo apt install python-virtualenv
 
 To install all dependencies, run
 
     $ make install
-
-All articles, written in Markdown, lie in `content`. News can be placed directly in there,
-more articles are in the `pages` subfolder.
 
 To test locally, you can run
 
