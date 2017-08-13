@@ -13,7 +13,7 @@
                 <ul>
             {% endif %}
             
-            {% if page.path.startswith(category.slug) %}
+            {% if page.path.startswith(category.slug) and page.parent is none %}
                 <li>
                     <a href="/{{ page.url }}">{{ page.title }}</a>
                 </li>
