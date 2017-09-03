@@ -66,7 +66,7 @@ Hier hat sich in der Vergangenheit gezeigt, dass es sehr interessant
 ist, sich über Erkenntnisse der Zusammenarbeit in einer Community
 auszutauschen oder auch um eigene Projekte vorzustellen.
 
-Die Organisatoren bitten um Beiträge **bis zum 31. August 2017**, um
+Die Organisatoren bitten um Beiträge **bis zum 20. Septemer 2017** - die Frist wurde verlängert, um
 ein Programm anzufertigen. Die Vorschläge sollen unter der E-Mail:
 idee@ubucon.de bei den Organisatoren mit folgenden Angaben getätigt
 werden:
