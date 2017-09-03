@@ -120,10 +120,13 @@ Ubuntu-Community, insbesondere bei ubuntuusers.de.
  * Zielgruppe: Anwender, Einsteiger
 
 
-Linux und Steuerrecht {#steuerrecht}
+Linux und Steuerrecht – wie offen ist das deutsche Steuerrecht {#steuerrecht}
 ---------------------
 
-Noch zu füllen!
+ * Referent: Guido Olm
+ * Typ: Vortrag
+ * Dauer: 1h
+ * Zielgruppe: Anwender, Einsteiger
 
 
 Mit Snapcraft, LXD und CI zum portablen Release {#snapcraft}
