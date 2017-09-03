@@ -15,6 +15,7 @@ SOCIAL = (
 
 MENUITEMS = (
 #               (description, link),
+                ('Programm', '2017/programm'),
                 ('Archiv', 'archiv'),
             )
 DISPLAY_PAGES_ON_MENU = False
