@@ -25,9 +25,9 @@ Clone the git-Repository via
 
     $ git clone git@github.com:ubuntu-Deutschland-eV/ubucon.de.git
 
-Furthermore, install `python-virtualenv`. If you use Ubuntu via
+Furthermore, install virtualenv for Python 3. If you use Ubuntu via
 
-    $ sudo apt install python-virtualenv
+    $ sudo apt install python3-virtualenv
 
 To install all dependencies, run
 
