@@ -2,6 +2,10 @@
 
 {% from 'translations.html' import translations_for %}
 
+{% block title %}
+    {{ article.title }} – {{ super() }}
+{% endblock %}
+
 {% block head %}
     {{ super() }}
 
