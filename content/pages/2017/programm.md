@@ -1,6 +1,8 @@
 Title: Programm
 
-Es wurden bisher schon einige Programmvorschläge eingereicht, die wir hier aufgelistet haben. Das Programm mit genauen Zeiten der einzelnen Beiträge wird noch vom Beginn der Konferenz veröffentlicht.
+Es wurden bisher schon einige Programmvorschläge eingereicht, die wir
+hier aufgelistet haben. Das Programm mit den genauen Zeiten der einzelnen
+Beiträge wird noch vor Beginn der Konferenz veröffentlicht.
 
 Inhaltsverzeichnis
 ------------------
@@ -12,7 +14,7 @@ Die Beiträge sind alphabetisch sortiert.
 -   [Eröffnung der Ubucon](#eroeffnung)
 -   [Fotobearbeitung wie die Profis mit Ubuntu & Open-Source-Tools](#fotobearbeitung)
 -   [Git für Einsteiger](#giteinsteiger)
--	[Linux und Steuerrecht](#steuerrecht)
+-   [Linux und Steuerrecht](#steuerrecht)
 -   [Mit Snapcraft, LXD und CI zum portablen Release](#snapcraft)
 -   [Nextcloud App Development Run Through](#nextcloud)
 -   [Nicht alltägliche Git-Funktionen](#gitfunktionen)
