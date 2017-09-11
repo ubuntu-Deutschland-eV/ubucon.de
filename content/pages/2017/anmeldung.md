@@ -6,4 +6,4 @@ Bitte entrichte die anfallende Gebühr an das in der E-Mail angegebene Konto. Bi
 
 Um besser planen zu können, würden wir uns freuen, wenn Du schon Aussagen dazu treffen kannst, ob Du an den Social Events teilnehmen kannst. Während der Konferenz haben wir wieder ein paar Leckereien vorbereitet, auf die Du zugreifen kannst.
 
-Erste Programmpunkte kannst Du unter den Punkt Programm entnehmen. Das fertig Programm wird demnächst veröffentlicht.
+Erste Programmpunkte kannst Du unter dem Punkt [Programm]({filename}/pages/2017/programm.md) entnehmen. Das fertig Programm wird demnächst veröffentlicht.
