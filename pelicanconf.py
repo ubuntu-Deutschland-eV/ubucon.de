@@ -15,6 +15,7 @@ SOCIAL = (
 
 MENUITEMS = (
 #               (description, link),
+                ('Anmeldung', '2017/anmeldung'),
                 ('Programm', '2017/programm'),
                 ('Besucher', '2017/besucher'),
                 ('Archiv', 'archiv'),
