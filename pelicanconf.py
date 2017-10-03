@@ -19,6 +19,7 @@ MENUITEMS = (
             )
 DISPLAY_PAGES_ON_MENU = False
 
+LOCALE = 'de_DE.utf-8'
 DEFAULT_LANG = 'de'
 TIMEZONE = 'Europe/Berlin'
 DEFAULT_DATE_FORMAT = '%a, %-d. %B %Y'
