@@ -5,6 +5,6 @@ Summary: Die Ubucon 2017 fällt aus.
 
 Die Ubucon fällt leider aus, da sich bis zum Ende der Anmeldungsfrist zu wenige Besucher angemeldet haben. Wir bedauern dies und bitten für die entstandenen Unannehmlichkeiten um Entschuldigung.
 
-Die bisher registrierten Teilnehmer, die Referenten und die Partner der Ubucon wurden bereits kontaktiert. Wir versuchen hier für etwalige Kosten, die nicht mehr stoniert werden können, eine Lösung zu finden.
+Die bisher registrierten Teilnehmer, die Referenten und die Partner der Ubucon wurden bereits kontaktiert. Wir versuchen hier für etwaige Kosten, die nicht mehr storniert werden können, eine Lösung zu finden.
 
 Sämtliche Unkostenbeiträge, die schon entrichtet wurden, werden zurückerstattet.
