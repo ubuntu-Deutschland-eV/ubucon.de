@@ -1,3 +1,5 @@
+![](https://github.com/ubuntu-Deutschland-eV/ubucon.de/workflows/Build%20HTML%20of%20site/badge.svg?branch=master)
+
 # File Structure – Where should i put my content?
 
 Each year has own subfolders inside `content` *and* `content/pages`,
@@ -51,6 +53,10 @@ Build the HTML from the Markdown-files lying in `content`
     $ make publish
 
 Everything in `output` can be put to the webserver.
+
+After every push to github, github actions will automatically build a new
+ZIP-archive with the contents of the output directory. The archive can be
+found at <https://github.com/ubuntu-Deutschland-eV/ubucon.de/actions?query=workflow%3A%22Build+HTML+of+site%22>.
 
 # Theme
 
