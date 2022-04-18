@@ -10,14 +10,15 @@ on: [push, pull_request]
 
 env:
   BRANCH_TO_DEPLOY: "master"
-  PYTHON_TO_DEPLOY: "3.6"
+  PYTHON_TO_DEPLOY: "3.9"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.5, 3.6, 3.7, 3.8, '3.x']
+        python-version: [3.9]
+      fail-fast: false
 
     steps:
     - uses: actions/checkout@v2
