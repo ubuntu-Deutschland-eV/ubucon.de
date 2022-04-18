@@ -28,8 +28,9 @@ CURRENTYEAR = date.today().year
 SUMMARY_MAX_LENGTH = 50
 
 PATH = 'content'
+READERS = {'html': None}
 IGNORE_FILES = ['.#*', 'files', '__pycache__']
-STATIC_PATHS = ['files']
+STATIC_PATHS = ['files', 'index.html']
 PAGE_PATHS = ['pages']
 THEME = 'themes/verein'
 
