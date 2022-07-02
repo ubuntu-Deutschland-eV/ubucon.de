@@ -55,6 +55,7 @@ jobs:
         if-no-files-found: error
 
   deploy:
+    if: github.ref_name == 'master'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -62,6 +63,5 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
-        if: github.ref_name == env.BRANCH_TO_DEPLOY
         id: deployment
         uses: actions/deploy-pages@v1
