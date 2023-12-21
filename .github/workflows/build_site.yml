@@ -34,6 +34,13 @@ jobs:
     - name: Build html of site
       run: make publish
 
+      # https://github.com/actions/upload-pages-artifact#example-permissions-fix-for-linux
+    - name: Fix permissions
+      run: |
+        chmod -c -R +rX "output/" | while read line; do
+          echo "::warning title=Invalid file permissions automatically fixed::$line"
+        done
+
     - name: Attach build html
       uses: actions/upload-artifact@v4
       if: matrix.python-version == env.PYTHON_TO_DEPLOY
