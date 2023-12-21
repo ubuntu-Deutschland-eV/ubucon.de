@@ -7,8 +7,6 @@ AUTHOR = 'Ubucon Team'
 SITENAME = 'Ubucon Deutschland'
 SITEURL = ''
 SOCIAL = (
-    ('facebook', 'https://www.facebook.com/Ubucon'),
-    ('Google+', 'https://plus.google.com/b/101157317074955454980/101157317074955454980/posts'),
     ('twitter', 'https://twitter.com/Ubucon'),
     ('YouTube', ('http://www.youtube.com/ubuconde'))
 )
