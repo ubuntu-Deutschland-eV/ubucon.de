@@ -1,5 +1,4 @@
 cache/
-output/
 virtualenv
 
 pip-selfcheck.json

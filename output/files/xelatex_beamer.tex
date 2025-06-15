@@ -1,0 +1,379 @@
+\documentclass[11pt]{beamer}
+% Anpassung des CambridgeUS Beamerthemes mit Ubuntufarben von Eremit7. This work is under the GPL v2.
+
+% This file is made for Xelatex. To compile the packages “texlive-xetex” and „ttf-ubuntu-font-family” must be installed. Then run “xelatex vorlage.tex“ (note the xeLAtex).
+
+% Make sure that circle_of_friends.pdf is found and beamerouterthemeubuntulines.sty is in the texmf path or the same directory as the .tex file.
+% Packages for Xelatex
+\usepackage{fontspec}%quiet
+\usepackage{xltxtra}
+%\usepackage{luatextra}
+\usepackage{arabxetex}
+\usepackage[ngerman]{babel}
+
+% Define the Orange from the Ubuntu branding.
+\definecolor{Ubuntu-Orange}{RGB}{221,072,20}
+
+% Load the Theme.
+\usetheme{CambridgeUS}
+
+% I never saw anybody using the navigation symbols, so disable them.
+\setbeamertemplate{navigation symbols}{}
+
+% Substitute the red in the Theme with the predefined Ubuntu-Orange.
+\setbeamercolor{palette primary}{fg=Ubuntu-Orange}
+\setbeamercolor{palette secondary}{fg=Ubuntu-Orange}
+\setbeamercolor{palette tertiary}{bg=Ubuntu-Orange}
+\setbeamercolor{titlelike}{fg=Ubuntu-Orange}
+\setbeamercolor{item}{fg=Ubuntu-Orange}
+\setbeamercolor{block title}{fg=Ubuntu-Orange,bg=white}
+\setbeamercolor{block body}{bg=white}
+
+% Now commes the Ubuntu font.
+% Because of beamers shortcomings we need to use a workaround: This beamer fonttheme uses sansserif for the normal text and serif fonts for the rest
+\usefonttheme[stillsansseriftext]{serif}
+
+% Now we tell XeLaTex what fonts to use: For the sansserif font Ubuntu Light and as the “serif” font Ubuntu. Ubuntu isn't an serif font, but this way XeLaTex sets all text that was defined as “serif“ in the line above in the Ubuntu font.
+% Using only the Ubuntu font would result in to heavy text.
+\defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase} % Set all fonts to convert Tex-Ligatures, like --- to em-dash.
+\setsansfont{Ubuntu Light}
+\setromanfont{Ubuntu}
+\setmonofont{DejaVu Sans Mono} %Use this when using a pre-oneiric font (Monospaced fonts added in Oneiric) 
+%\setmonofont{Ubuntu Mono}% Works only with lualatex duo to bug: 867853 (in Launchpad)
+\newfontfamily\arabicfont[Script=Arabic, Scale=1.4]{Scheherazade}
+
+
+% When you have longer texts in your presentation active this option. More space between the lines of text will improve the readability. 
+%\linespread{1.25}
+
+
+
+% Now load the loge (to control the hight write “higth=Xcm” in the brackets []).
+\logo{\includegraphics[]{/home/user/workspace/ub-main/trunk/ubuntu-berlin-logo/circle_of_friends.pdf}}
+
+% This will be on the Title page.
+\author[Eremit7]{Sebastian Bator}
+\title[XeLaTeX und beamer]{Bildschirmpräsentationen}
+\subtitle{mit XeLaTeX und Beamer}
+\institute{Ubuntu Berlin}
+\date{16. Oktober 2011}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}
+	\frametitle{Gliederung}
+	\tableofcontents
+\end{frame}
+
+\section{Beamer}
+
+\begin{frame}{Beamer}
+	\begin{itemize}
+		\item Ein Paket zum Erstellen von Bildschirmpräsentationen.
+		\item Organisiert die Präsentation in \emph{frames} und \emph{slides}.
+			\begin{itemize}
+				\item<1> Dies ist die erste \emph{slide} dieses \emph{fames}.
+				\item<2-> und dies die Zweite.
+			\end{itemize}
+		\item Integriert \alert{bestehende} \LaTeX-Befehle
+			\begin{enumerate}
+				\item Dies ist eine \texttt{enumerate}
+				\item in einer \texttt{itemize}-Umgebung
+			\end{enumerate}
+	\end{itemize}
+	\begin{description}
+		\item[Beispiel] Für eine \texttt{description}-Umgebung und noch etwas Text
+		\item[Weiteres Beispiel] Mit einer weit ausholenden Erklärung
+	\end{description}
+\end{frame}
+
+\begin{frame}[fragile]{Ein Beispiel}{Für das bessere Verständnis}
+	\begin{small}
+		
+	\begin{verbatim}
+	\begin{frame}{Ein Beispiel}{Für das bessere Verständnis}
+	  	\begin{itemize}
+    			\item<1-> Punkt 1
+    			\item<2-3> \alert{Punkt 2}
+  		\end{itemize}
+  		\begin{block}{Wichtiger Hinweis}
+    			Vor dem Schlafen Zähneputzen nicht vergessen.
+  		\end{block}
+	\end{FRAME}
+
+	\end{verbatim}
+%Verlinken: Theme Beameruserguide, fontconfig einführung, xelatex Doku
+	\end{small}
+	
+	\begin{block}{Wichtiger Hinweis}
+		Vor dem Schlafen Zähneputzen nicht vergessen.
+	\end{block}
+\end{frame}
+
+\begin{frame}{Weitere Funktionen}
+	\transsplithorizontalin
+	\begin{itemize}
+		\item Die Struktur des Dokuments wird normal gesetzt
+		\item Flexible Steuerung von Aussehen und Farbgebung ist möglich.
+		\item Erlaubt die Integration von Handouts und einem Artikel in die Datei der Präsentation.
+	\end{itemize}
+\end{frame}
+
+\section{XeLaTeX}
+
+\begin{frame}{\XeTeX}
+	\begin{itemize}
+		\item Ist eine \TeX-\emph{engine}
+		\item Ermöglicht volle Unicodeunterstützung %Außer Leerzeichen
+			\begin{itemize}
+				\item Text
+				\item Dateinamen
+			\end{itemize}
+		\item Nutzung der auf dem System installierten Schriften
+			\begin{itemize}
+				\item Konfiguration über \texttt{fontspec}
+			\end{itemize}
+		\item Übersetzung mit \texttt{xelatex beispiel.tex}
+	\end{itemize}
+	
+\end{frame}
+
+\begin{frame}[fragile]{Minimales \XeLaTeX-Dokument}
+
+	\begin{verbatim}
+	\documentclass{scrartcl}
+	\usepackage{fontspec}
+	\usepackage{xltxtra}
+
+	\defaultfontfeatures{Ligatures=TeX}
+	\setmainfont{CMU Serif}
+	\setsansfont{CMU Sans Serif}
+	\setmonofont[Scale=0.9]{CMU Typewriter Text}
+
+	\begin{document}
+	Hallo Welt!
+	\end{document}
+	\end{verbatim}
+	
+\end{frame}
+
+{\fontspec[ItalicFont=Linux Libertine O Italic]{Linux Biolinum O}
+\begin{frame}[fragile]{\fontspec{Linux Biolinum O}Fontspec}
+	\begin{itemize}
+		\item Das \texttt{fontspec}-Paket kontrolliert die Schriftart
+		\item Änderungen an den Schriften sind jederzeit möglich
+		\item Dieser \emph{frame} ist gesetzt mit:
+	\end{itemize}
+	{ \verb+\fontspec[ItalicFont=Linux Libertine O Italic]{Linux Biolinum O}+}
+	\begin{itemize}
+		\item Eckige Klammern definieren die \emph{font features}
+%		\item \verb+\fontspec[Color=dd4814,WordSpace=0.3]{Ubuntu}+
+		\item Einige \emph{font features} sind für die Schriftart spezifisch
+			%Ligaturen, Zahlen, stilistische Sets, Vertikale Prosition
+			\begin{itemize}
+				\item Zu finden in der Dokumentation oder per \texttt{otfinfo -f}
+			\end{itemize}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]{Fontspec}
+	\begin{itemize}
+		\item \verb+\fontspec[Color=dd4814]{Linux Libertine O}+
+		\item {\fontspec[Color=dd4814]{Linux Libertine O} 1234567890}
+		\item und die Libertine mit Numbers=OldStyle
+		\item 	{\fontspec[Color=dd4814,Numbers=OldStyle]{Linux Libertine O} 1234567890	}
+	\end{itemize}
+\end{frame}
+}
+
+
+\begin{frame}{\LuaTeX}{Die kommende \TeX-Engine}
+Wechsel von \XeLaTeX{} auf \LuaLaTeX:
+\begin{itemize}
+	\item \texttt{[Mapping=tex-text]} durch \texttt{[Ligatures=TeX]} ersetzten
+	\item Das Paket \texttt{xltxtra} mit \texttt{luatextra} ersetzen
+	\item Dokument mit \texttt{lualatex} statt \texttt{xelatex} übersetzten
+	\item \texttt{polyglossia} muss durch \texttt{babel} ersetzt werden
+\end{itemize}
+	
+\end{frame}
+
+\begin{frame}{Das Theme}
+	\begin{itemize}
+		\item Eine Farbe
+		\item Logo balanciert die Farbgebung aus
+		\item „Leichte“ Schrift
+	\end{itemize}
+
+	Ecken und Kanten:
+	\begin{itemize}
+		\item Bessere nichtproportionale Schriftart
+			\begin{itemize}
+				\item Ubuntu-Mono ?
+			\end{itemize}
+			\item Die Hervorhebung mit \texttt{Alert} ist unauffällig
+			\item Die Blöcke sind sehr schlicht
+	\end{itemize}
+\end{frame}
+
+\section{Schritt für Schritt}
+
+\begin{frame}[fragile,allowframebreaks]{Schritt für Schritt}
+	\begin{verbatim}
+	\documentclass[11pt]{beamer}
+
+ \usepackage{fontspec}
+ \usepackage{xltxtra}
+ \usepackage{polyglossia}
+ \setdefaultlanguage{german}
+
+ \definecolor{Ubuntu-Orange}{RGB}{221,072,20}
+
+ \usetheme{CambridgeUS}
+
+ \setbeamertemplate{navigation symbols}{}
+
+ \setbeamercolor{palette primary}{fg=Ubuntu-Orange}
+\setbeamercolor{palette secondary}{fg=Ubuntu-Orange}
+\setbeamercolor{palette tertiary}{bg=Ubuntu-Orange}
+\setbeamercolor{titlelike}{fg=Ubuntu-Orange}
+\setbeamercolor{item}{fg=Ubuntu-Orange}
+\setbeamercolor{block title}{fg=Ubuntu-Orange}
+
+% Because of beamers shortcomings we need to use a workaround:
+This beamer fonttheme uses sansserif for the normal text and 
+serif fonts for the rest
+\usefonttheme[stillsansseriftext]{serif}
+
+\defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\setsansfont{Ubuntu Light}
+\setmainfont{Ubuntu}
+\setmonofont{DejaVu Sans Mono}
+
+\logo{\includegraphics[]{/pfad/zum/circle_of_friends.pdf}}
+
+\author[Eremit7]{Sebastian Bator}
+\title[\XeLaTeX{} und beamer]{Bildschirmpräsentationen}
+\subtitle{mit \XeLaTeX{} und beamer}
+\institute{Ubuntu Berlin}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{FRAME}
+
+\begin{frame}
+	\frametitle{Gliederung}
+	\tableofcontents
+\end{FRAME}
+
+\section{Schritt für Schritt}
+
+\begin{frame}[fragile,allowframebreaks]{Schritt für Schritt}
+	\begin{verbatim}
+	Der Text…
+	\end{VERBATIM}
+\end{FRAME}
+	\end{verbatim}
+\end{frame}
+
+
+\section{Vorteile von Unicode}
+
+\begin{frame}[fragile]{Die Vorteile von Unicode: Arabisch}
+	\begin{description}
+		\item[arabxetex] \texttt{arabtex} für \XeLaTeX{}, ermöglicht Eingabe als Umschrift
+		\item[polyglossia] Mehrsprachiger Satz für \XeLaTeX, Befehle zum Wechseln der Schriften werden von \texttt{beamer} gebrochen
+	\end{description}
+Beide Systeme definieren:
+\begin{itemize}
+	\item Eine neue Schriftengruppe \texttt{arabicfont}
+		\begin{itemize}
+			\item \verb+\newfontfamily\arabicfont[Script=Arabic]{Scheherazade}+
+		\end{itemize}
+	\item Befehle zum Wechseln der Schrift:
+		\begin{description}
+			\item[arabxetex] \verb+\arab{}+ und die Umgebung \texttt{arab}
+			\item[ployglossia] \verb+\textarabic{}+ und die Umgebung \texttt{Arabic}
+		\end{description}
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}[fragile]{In der Praxis}
+
+	\begin{arab}
+		إسمي سباستيان
+		\vspace{5mm}
+
+		\textLR{\texttt{\textbackslash{}addfontfeature\{Script=Latin\}}}
+		\vspace{5mm}
+
+		{\addfontfeature{Script=Latin}
+		إسمي سباستيان
+		}
+	\end{arab}
+\pause
+
+	\begin{verbatim}
+	\begin{arab}
+	  	إسمي سباستيان
+
+	    	\textLR{\verb+\addfontfeature{Script=Latin}+}
+
+	  	{\addfontfeature{Script=Latin}
+	    	إسمي سباستيان
+	  	}
+	\end{arab}
+	
+	\end{verbatim}
+\end{frame}
+
+\begin{frame}[fragile]{Erni und Bert}
+
+		\begin{arab}[fullvoc]
+	ra^ga` 'anIs min dukAn Al-baqAl, wa-'i^star_A Al-.halIb wa-zubdT wa-_hubz. _tumma s'ala ba.hr 'an i^star_A al-mawuz. wa-^galaba 'anIs wa-.hId mawuz. _tumma qAlUA 'anIs wa-ba.hr 'an al-mawuz la_dI_d. ba`da _dalika 'akala 'anIs al-mawuz .hdk wa-badA ba.hr al-mawuz 'aI.daN. 
+	
+	_tumma taqAsama 'anIs al-mawuz: hUa 'akala al-mawuz wa-ba.hr al-qi^sr. wa lAzim 'an ^galasa ba.hr. ba`da _dalika ^galaba 'anIs mawuzaN 'u_hr_AaN.
+\end{arab}
+
+\begin{verbatim}
+	\begin{arab}[fullvoc]
+  	_tumma taqAsama 'anIs al-mawuz: hUa 'akala al-mawuz wa-ba.hr 
+  	al-qi^sr. wa lAzim 'an ^galasa ba.hr. ba`da _dalika ^galaba 
+  	'anIs mawuzaN 'u_hr_AaN.
+\end{arab}
+
+\end{verbatim}
+
+\end{frame}
+
+
+
+\begin{frame}{Nützliche Dokumentation}
+
+\begin{description}
+	\item[Das Theme] \url{https://wiki.ubuntu.com/Presentations}
+	\item[Beamer] \url{http://mirror.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf}
+	\item[\XeLaTeX] \url{http://xml.web.cern.ch/XML/lgc2/xetexmain.pdf} 
+		\begin{itemize}
+			\item \url{http://scholarsfonts.net/xetextt.pdf}
+		\end{itemize}
+	\item[Fontspec] \url{http://www.ctan.org/tex-archive/macros/xetex/latex/fontspec/fontspec.pdf}
+\end{description}
+
+\vfill
+\begin{center}
+\begin{tiny}Diese Präsentation wurde mit \LaTeX \ \textit{Beamer} erstellt. Sie steht unter der GNU-Lizenz für freie Dokumentation 1.3 -- \url{http://de.wikipedia.org/wiki/GNU-Lizenz\_für\_freie\_Dokumentation}
+\\ Ubuntu und das Ubuntu-Logo sind eingetragene Warenzeichen von Canonical Ltd.
+\end{tiny} 
+\end{center}
+\end{frame}
+
+\end{document}
